@@ -1,0 +1,3 @@
+[submodule "fair-classification"]
+	path = fair-classification
+	url = https://github.com/mbilalzafar/fair-classification.git
