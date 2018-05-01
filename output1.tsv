@@ -1,0 +1,2887 @@
+x	y	age	priors_count	race_African_American	race_Caucasian	race_Hispanic	c_charge_degree_F	c_charge_degree_M	is_male	two_year_recid
+-12.0094946907	13.8610187402	60	1	0	1	0	0	1	True	two_year_recid    0
+Name: 3899, dtype: int64
+2.33748284745	18.4306762439	28	0	1	0	0	0	1	False	two_year_recid    0
+Name: 2253, dtype: int64
+-14.1436550438	12.396499499	48	1	0	1	0	0	1	True	two_year_recid    1
+Name: 1810, dtype: int64
+12.516345885	-15.6850307981	49	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2424, dtype: int64
+1.97305919215	6.05706559359	26	7	1	0	0	1	0	True	two_year_recid    0
+Name: 3380, dtype: int64
+4.55737415078	6.33332095031	23	4	1	0	0	1	0	True	two_year_recid    0
+Name: 648, dtype: int64
+3.15932702012	4.78043443773	29	5	1	0	0	1	0	True	two_year_recid    1
+Name: 519, dtype: int64
+-20.2538337429	9.00006843705	21	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3498, dtype: int64
+-4.90489206642	-11.4352875287	28	0	0	1	0	0	1	False	two_year_recid    0
+Name: 4437, dtype: int64
+-11.488026621	2.36613305652	47	21	1	0	0	1	0	True	two_year_recid    1
+Name: 6490, dtype: int64
+-12.0620276257	14.0503568681	61	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2537, dtype: int64
+-7.58247130349	-17.2481992205	28	12	1	0	0	1	0	True	two_year_recid    1
+Name: 5445, dtype: int64
+-7.62354416409	3.73942081121	35	10	1	0	0	1	0	True	two_year_recid    1
+Name: 6272, dtype: int64
+1.61331012915	4.6628125186	31	6	1	0	0	1	0	True	two_year_recid    1
+Name: 4460, dtype: int64
+-11.3300217486	-3.36896373333	53	6	1	0	0	1	0	True	two_year_recid    0
+Name: 4711, dtype: int64
+19.3426428377	-4.97401979754	29	0	0	1	0	1	0	False	two_year_recid    1
+Name: 4810, dtype: int64
+-21.252326617	-12.1471731665	25	0	0	1	0	1	0	True	two_year_recid    0
+Name: 535, dtype: int64
+-11.5972665458	0.254826215392	46	13	1	0	0	1	0	True	two_year_recid    1
+Name: 7149, dtype: int64
+1.63171699966	4.68791255634	31	6	1	0	0	1	0	True	two_year_recid    0
+Name: 4040, dtype: int64
+1.78687944905	-12.9458175164	25	3	1	0	0	1	0	True	two_year_recid    1
+Name: 7100, dtype: int64
+-0.419904707562	-20.6740743595	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6346, dtype: int64
+-18.1673236748	-7.71977806521	20	1	0	1	0	1	0	True	two_year_recid    1
+Name: 5843, dtype: int64
+-7.194194636	19.742307522	23	0	0	0	1	0	1	True	two_year_recid    0
+Name: 6387, dtype: int64
+6.33570345295	-6.24340707709	28	4	1	0	0	0	1	True	two_year_recid    1
+Name: 6396, dtype: int64
+0.192433000793	-20.8581097539	23	0	1	0	0	1	0	True	two_year_recid    1
+Name: 2830, dtype: int64
+2.17963143206	-17.0594458359	23	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2387, dtype: int64
+-11.1722309669	-1.62307576436	47	9	1	0	0	1	0	True	two_year_recid    0
+Name: 4202, dtype: int64
+9.16130390301	5.0024572261	34	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5944, dtype: int64
+-19.259077432	6.5338873063	29	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3094, dtype: int64
+-4.21658317842	20.2689834887	26	1	0	0	1	0	1	False	two_year_recid    0
+Name: 7058, dtype: int64
+-14.2388542284	-13.2508142222	27	4	0	1	0	1	0	True	two_year_recid    0
+Name: 2633, dtype: int64
+-11.5085478202	13.7600421128	61	3	0	1	0	0	1	True	two_year_recid    1
+Name: 1450, dtype: int64
+-10.47695694	11.0737243084	57	12	0	1	0	0	1	True	two_year_recid    0
+Name: 3975, dtype: int64
+-41.4103804998	-30.1552863787	25	2	0	1	0	1	0	True	two_year_recid    1
+Name: 564, dtype: int64
+1.86568347885	-17.4062396769	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5883, dtype: int64
+-6.64039083164	-6.00320821277	39	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4370, dtype: int64
+1.79574604507	5.86080593907	27	7	1	0	0	1	0	True	two_year_recid    1
+Name: 2245, dtype: int64
+3.82668291174	6.2750232934	24	5	1	0	0	1	0	True	two_year_recid    1
+Name: 5403, dtype: int64
+-10.5915873374	-15.8863876767	30	14	1	0	0	1	0	True	two_year_recid    1
+Name: 1989, dtype: int64
+3.1118789261	17.6759023683	37	0	1	0	0	0	1	False	two_year_recid    0
+Name: 4249, dtype: int64
+-9.24345929986	-4.5458038407	45	3	1	0	0	1	0	True	two_year_recid    0
+Name: 1531, dtype: int64
+5.67212484761	-2.86167569729	29	0	1	0	0	0	1	True	two_year_recid    0
+Name: 3831, dtype: int64
+-19.5840279002	6.03936582854	27	0	0	1	0	0	1	True	two_year_recid    1
+Name: 3034, dtype: int64
+10.8120252451	-10.4223365294	33	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2984, dtype: int64
+0.0254469649348	4.03241541101	35	7	1	0	0	1	0	True	two_year_recid    0
+Name: 3170, dtype: int64
+5.98389885447	0.155555778024	31	12	1	0	0	0	1	True	two_year_recid    1
+Name: 6000, dtype: int64
+-1.35958735689	-3.64276679961	23	0	0	0	0	0	1	False	two_year_recid    0
+Name: 759, dtype: int64
+4.96231811351	-3.13445057954	27	0	1	0	0	0	1	True	two_year_recid    0
+Name: 1902, dtype: int64
+0.966039548509	2.21547066098	37	4	1	0	0	1	0	True	two_year_recid    0
+Name: 3478, dtype: int64
+-3.03514742786	-9.9158890976	52	3	0	1	0	0	1	False	two_year_recid    0
+Name: 3689, dtype: int64
+-41.4103804984	-30.155286384	25	2	0	1	0	1	0	True	two_year_recid    1
+Name: 2608, dtype: int64
+-0.354796173487	11.1363163354	36	3	1	0	0	1	0	False	two_year_recid    1
+Name: 3560, dtype: int64
+6.33497431336	-6.22295079468	28	4	1	0	0	0	1	True	two_year_recid    1
+Name: 5289, dtype: int64
+-9.42539716638	-5.9621629815	49	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4091, dtype: int64
+3.22385222565	-4.01475519796	24	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4131, dtype: int64
+-9.66632521704	3.81723908413	32	16	1	0	0	1	0	True	two_year_recid    1
+Name: 2484, dtype: int64
+18.1539267774	-8.76350930553	62	2	0	1	0	1	0	False	two_year_recid    1
+Name: 1086, dtype: int64
+-18.946195278	-11.5853295441	30	0	0	1	0	1	0	True	two_year_recid    0
+Name: 104, dtype: int64
+0.607472189002	-13.7351173319	21	3	1	0	0	1	0	True	two_year_recid    1
+Name: 4776, dtype: int64
+-13.8540251501	-13.1568255063	27	5	0	1	0	1	0	True	two_year_recid    1
+Name: 5582, dtype: int64
+9.37958071145	4.35355084814	32	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5598, dtype: int64
+-6.39941690526	-5.92745532613	38	1	1	0	0	1	0	True	two_year_recid    1
+Name: 4882, dtype: int64
+0.186451184776	9.06515028314	54	6	1	0	0	1	0	False	two_year_recid    0
+Name: 4301, dtype: int64
+-41.3915498418	-30.1431182112	28	2	0	1	0	1	0	True	two_year_recid    1
+Name: 4601, dtype: int64
+-20.2457755551	8.98848913091	21	0	0	1	0	0	1	True	two_year_recid    0
+Name: 4349, dtype: int64
+6.26450537826	-3.14348541713	30	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3606, dtype: int64
+-17.5738325955	5.49848326888	23	4	0	1	0	0	1	True	two_year_recid    1
+Name: 3262, dtype: int64
+-1.39785980854	-3.61622781382	38	0	0	0	0	0	1	False	two_year_recid    0
+Name: 6808, dtype: int64
+7.3929861206	12.3348917098	25	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2930, dtype: int64
+-3.05624294528	-4.37617323387	56	0	0	0	0	0	1	True	two_year_recid    0
+Name: 2398, dtype: int64
+-11.4398628339	14.5602685744	69	0	0	1	0	0	1	True	two_year_recid    1
+Name: 5884, dtype: int64
+-3.61655147778	13.4636637545	20	0	1	0	0	1	0	False	two_year_recid    0
+Name: 2304, dtype: int64
+-19.7050649541	5.78647390602	26	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1687, dtype: int64
+10.5820194807	-6.69110048441	47	23	1	0	0	0	1	True	two_year_recid    1
+Name: 184, dtype: int64
+-12.206855552	2.24762143677	61	25	1	0	0	1	0	True	two_year_recid    0
+Name: 6064, dtype: int64
+-11.585758601	7.2143329426	23	1	0	1	0	0	1	False	two_year_recid    0
+Name: 5119, dtype: int64
+-10.4850408768	-4.39120561543	51	4	1	0	0	1	0	True	two_year_recid    0
+Name: 1849, dtype: int64
+-22.5187073278	-11.8338744183	23	0	0	1	0	1	0	True	two_year_recid    0
+Name: 7199, dtype: int64
+10.3531695541	-12.3775933147	38	2	0	1	0	1	0	True	two_year_recid    1
+Name: 1921, dtype: int64
+-8.34220218561	3.8610030657	34	12	1	0	0	1	0	True	two_year_recid    0
+Name: 4234, dtype: int64
+-7.27342274585	19.775956474	21	1	0	0	1	0	1	True	two_year_recid    1
+Name: 1904, dtype: int64
+15.9765294006	10.6513365031	26	4	0	0	1	1	0	True	two_year_recid    0
+Name: 572, dtype: int64
+-0.28618972977	11.0562177266	37	3	1	0	0	1	0	False	two_year_recid    0
+Name: 786, dtype: int64
+-6.02964648002	18.4473167997	45	1	0	0	1	0	1	True	two_year_recid    0
+Name: 1789, dtype: int64
+-13.7082640897	12.6604164591	50	1	0	1	0	0	1	True	two_year_recid    1
+Name: 6205, dtype: int64
+7.39077948378	12.348689674	25	3	1	0	0	0	1	True	two_year_recid    0
+Name: 2782, dtype: int64
+-6.30268877166	18.5000161417	42	3	0	0	1	0	1	True	two_year_recid    0
+Name: 1430, dtype: int64
+-9.54949170231	-16.3599777299	31	15	1	0	0	1	0	True	two_year_recid    1
+Name: 2201, dtype: int64
+19.3355114748	-4.66496187336	26	1	0	1	0	1	0	False	two_year_recid    0
+Name: 4405, dtype: int64
+3.15899619392	-15.9101979189	25	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1768, dtype: int64
+-2.07028879251	11.3200120541	31	0	1	0	0	1	0	False	two_year_recid    0
+Name: 1046, dtype: int64
+-10.7499220701	-6.16064986698	56	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4717, dtype: int64
+-15.6923168369	9.32680718767	40	3	0	1	0	0	1	True	two_year_recid    0
+Name: 4740, dtype: int64
+-3.48524016921	-0.57849185689	21	0	0	0	0	1	0	True	two_year_recid    0
+Name: 1974, dtype: int64
+15.152940455	10.530329901	27	1	0	0	1	1	0	True	two_year_recid    0
+Name: 5674, dtype: int64
+-18.353528313	-12.4546234939	28	1	0	1	0	1	0	True	two_year_recid    1
+Name: 6079, dtype: int64
+3.8326143035	6.29818941504	24	5	1	0	0	1	0	True	two_year_recid    0
+Name: 5604, dtype: int64
+9.33361549723	-14.8353124362	44	5	0	1	0	1	0	True	two_year_recid    0
+Name: 5299, dtype: int64
+10.5619169629	-14.9811747569	45	3	0	1	0	1	0	True	two_year_recid    0
+Name: 3120, dtype: int64
+19.1496733597	-4.91615505345	28	2	0	1	0	1	0	False	two_year_recid    1
+Name: 6116, dtype: int64
+3.22097715857	-15.9014495081	25	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4928, dtype: int64
+-7.89149126768	-6.24742937018	44	0	1	0	0	1	0	True	two_year_recid    0
+Name: 5663, dtype: int64
+-14.3051955474	-12.4918810823	30	4	0	1	0	1	0	True	two_year_recid    1
+Name: 7106, dtype: int64
+7.16540541716	23.6098538568	31	10	1	0	0	1	0	True	two_year_recid    1
+Name: 4559, dtype: int64
+3.33504729639	18.1428650044	35	3	1	0	0	0	1	False	two_year_recid    1
+Name: 2853, dtype: int64
+10.0416433793	3.54721189619	30	1	1	0	0	1	0	True	two_year_recid    0
+Name: 162, dtype: int64
+7.70967443147	-6.90197778285	29	8	1	0	0	0	1	True	two_year_recid    0
+Name: 6129, dtype: int64
+-6.68826666086	19.2114674682	33	0	0	0	1	0	1	True	two_year_recid    0
+Name: 5220, dtype: int64
+11.2680784596	-18.3373499259	58	2	0	1	0	1	0	True	two_year_recid    0
+Name: 3966, dtype: int64
+3.86244662463	6.44363559682	23	5	1	0	0	1	0	True	two_year_recid    1
+Name: 922, dtype: int64
+-9.4373293843	-15.890056428	28	7	1	0	0	1	0	True	two_year_recid    1
+Name: 5043, dtype: int64
+9.78200918583	-1.81102350686	39	1	1	0	0	0	1	True	two_year_recid    0
+Name: 72, dtype: int64
+-2.36213918552	13.3723096566	24	2	1	0	0	1	0	False	two_year_recid    1
+Name: 4749, dtype: int64
+7.44580402764	23.9792420812	31	6	1	0	0	1	0	True	two_year_recid    0
+Name: 3901, dtype: int64
+0.0036662383314	11.5109201117	35	4	1	0	0	1	0	False	two_year_recid    0
+Name: 779, dtype: int64
+-11.0134682715	2.88804727257	38	19	1	0	0	1	0	True	two_year_recid    1
+Name: 3275, dtype: int64
+-4.02023045989	-1.0848003262	33	5	0	0	0	1	0	True	two_year_recid    0
+Name: 5433, dtype: int64
+-2.22174946401	-4.5964605591	30	0	0	0	0	0	1	True	two_year_recid    1
+Name: 584, dtype: int64
+-0.081236652212	5.00006901455	31	8	1	0	0	1	0	True	two_year_recid    1
+Name: 4630, dtype: int64
+14.9089075875	11.1271782051	20	0	0	0	1	1	0	True	two_year_recid    1
+Name: 1156, dtype: int64
+2.49133412412	18.2458586997	30	0	1	0	0	0	1	False	two_year_recid    1
+Name: 6964, dtype: int64
+2.74890572944	-4.17698632034	23	0	1	0	0	0	1	True	two_year_recid    1
+Name: 3270, dtype: int64
+11.7698788448	-13.7010525029	43	1	0	1	0	1	0	True	two_year_recid    0
+Name: 2852, dtype: int64
+-11.4419014503	14.2092467182	65	2	0	1	0	0	1	True	two_year_recid    0
+Name: 1297, dtype: int64
+-10.7220877947	-11.7409138594	39	17	0	1	0	1	0	True	two_year_recid    1
+Name: 5171, dtype: int64
+-17.8213714458	-12.1862518804	30	1	0	1	0	1	0	True	two_year_recid    1
+Name: 6011, dtype: int64
+8.06539807317	-5.14392236983	37	12	1	0	0	0	1	True	two_year_recid    1
+Name: 1493, dtype: int64
+-15.0006919394	-12.5525243519	29	3	0	1	0	1	0	True	two_year_recid    1
+Name: 6815, dtype: int64
+0.834882503322	-13.6346509095	23	3	1	0	0	1	0	True	two_year_recid    1
+Name: 4464, dtype: int64
+10.7331042213	-15.5438720352	48	3	0	1	0	1	0	True	two_year_recid    1
+Name: 683, dtype: int64
+11.5852144373	-2.15044220955	49	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3370, dtype: int64
+-14.5201978078	-15.9234125652	30	11	0	1	0	1	0	True	two_year_recid    1
+Name: 1910, dtype: int64
+15.719861213	8.72565991591	39	2	0	0	1	1	0	True	two_year_recid    0
+Name: 5028, dtype: int64
+-41.4113643339	-30.1551273549	24	2	0	1	0	1	0	True	two_year_recid    1
+Name: 6103, dtype: int64
+2.06062125214	-20.6612048063	20	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6356, dtype: int64
+-0.718868237889	11.0623328784	35	2	1	0	0	1	0	False	two_year_recid    0
+Name: 4501, dtype: int64
+4.07846295601	19.947849672	41	6	1	0	0	0	1	False	two_year_recid    0
+Name: 2682, dtype: int64
+10.4103981446	-19.2431326375	67	3	0	1	0	1	0	True	two_year_recid    0
+Name: 2334, dtype: int64
+8.64949476153	24.5680719086	21	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2716, dtype: int64
+-18.7753111464	-11.7942887855	30	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5991, dtype: int64
+-11.6152906738	2.92479645543	41	25	1	0	0	1	0	True	two_year_recid    1
+Name: 2692, dtype: int64
+-41.3921128716	-30.1436000857	28	2	0	1	0	1	0	True	two_year_recid    1
+Name: 6837, dtype: int64
+-9.12716340325	-5.09431812847	46	2	1	0	0	1	0	True	two_year_recid    1
+Name: 7003, dtype: int64
+-3.49311927749	-10.3242983964	45	3	0	1	0	0	1	False	two_year_recid    0
+Name: 1227, dtype: int64
+10.7630022935	-1.72811034945	44	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4018, dtype: int64
+-12.5646318709	-1.84751480741	57	9	1	0	0	1	0	True	two_year_recid    0
+Name: 3675, dtype: int64
+0.893428806241	2.06972267422	38	4	1	0	0	1	0	True	two_year_recid    0
+Name: 2348, dtype: int64
+-7.20688258908	19.5053762502	25	2	0	0	1	0	1	True	two_year_recid    1
+Name: 2896, dtype: int64
+-3.86892664649	-1.97184360651	46	0	0	0	0	1	0	True	two_year_recid    1
+Name: 5098, dtype: int64
+2.17963132201	-17.0594463007	23	1	1	0	0	1	0	True	two_year_recid    1
+Name: 1792, dtype: int64
+-17.9301957208	7.28476569279	30	2	0	1	0	0	1	True	two_year_recid    1
+Name: 1226, dtype: int64
+-20.4976950335	-12.1357013357	27	0	0	1	0	1	0	True	two_year_recid    1
+Name: 276, dtype: int64
+-10.2888976293	10.9215335071	60	18	0	1	0	0	1	True	two_year_recid    1
+Name: 2873, dtype: int64
+-16.5274799916	10.7798043149	38	0	0	1	0	0	1	True	two_year_recid    0
+Name: 4773, dtype: int64
+-0.420242885409	-20.6751535632	24	0	1	0	0	1	0	True	two_year_recid    1
+Name: 5644, dtype: int64
+15.8383229553	8.92148105181	38	3	0	0	1	1	0	True	two_year_recid    0
+Name: 2151, dtype: int64
+12.5074216009	-15.4682370766	48	0	0	1	0	1	0	True	two_year_recid    1
+Name: 5486, dtype: int64
+-23.6964624978	-10.9665518539	22	1	0	1	0	1	0	True	two_year_recid    1
+Name: 3908, dtype: int64
+0.962066521601	-14.6933630926	22	2	1	0	0	1	0	True	two_year_recid    0
+Name: 5888, dtype: int64
+6.57761893739	23.6121039325	48	8	1	0	0	1	0	True	two_year_recid    1
+Name: 4166, dtype: int64
+2.5651180902	5.97784417648	26	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5419, dtype: int64
+3.12386062961	19.1569133193	25	5	1	0	0	0	1	False	two_year_recid    1
+Name: 1023, dtype: int64
+-5.10072471183	-11.571136573	24	0	0	1	0	0	1	False	two_year_recid    0
+Name: 5392, dtype: int64
+7.62256150094	-16.8814119919	55	18	0	1	0	1	0	True	two_year_recid    1
+Name: 5241, dtype: int64
+1.93368507494	12.3414874528	42	16	1	0	0	1	0	False	two_year_recid    0
+Name: 5311, dtype: int64
+-10.6593521731	-2.81986308666	47	6	1	0	0	1	0	True	two_year_recid    0
+Name: 1710, dtype: int64
+-8.39298713182	-0.350707363944	34	5	1	0	0	0	1	True	two_year_recid    0
+Name: 5240, dtype: int64
+-9.22986549604	3.34770457205	38	14	1	0	0	1	0	True	two_year_recid    0
+Name: 6210, dtype: int64
+3.52451422002	-12.9645844008	28	2	1	0	0	1	0	True	two_year_recid    0
+Name: 5113, dtype: int64
+-23.3981213239	-11.6843706137	21	0	0	1	0	1	0	True	two_year_recid    1
+Name: 533, dtype: int64
+-17.4927406905	7.30031183993	30	3	0	1	0	0	1	True	two_year_recid    0
+Name: 4718, dtype: int64
+-9.5878579065	-14.4129598938	22	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3917, dtype: int64
+19.2024023448	-4.81261969044	27	2	0	1	0	1	0	False	two_year_recid    0
+Name: 2087, dtype: int64
+-6.86409685737	19.0899097399	32	2	0	0	1	0	1	True	two_year_recid    1
+Name: 1565, dtype: int64
+11.0079997365	3.83215089251	30	0	1	0	0	1	0	True	two_year_recid    1
+Name: 5612, dtype: int64
+-12.1476847762	-5.64670628354	69	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5313, dtype: int64
+18.4196768277	-6.35528823529	36	4	0	1	0	1	0	False	two_year_recid    1
+Name: 979, dtype: int64
+14.9467045467	10.9708618842	22	0	0	0	1	1	0	True	two_year_recid    1
+Name: 5948, dtype: int64
+-20.2641353034	4.96847171302	22	0	0	1	0	0	1	True	two_year_recid    1
+Name: 2471, dtype: int64
+-0.410007271168	13.4384440619	26	5	1	0	0	1	0	False	two_year_recid    1
+Name: 1284, dtype: int64
+-4.18511071989	20.2009233311	33	2	0	0	1	0	1	False	two_year_recid    0
+Name: 1574, dtype: int64
+-19.7444679781	-12.0643210807	28	0	0	1	0	1	0	True	two_year_recid    1
+Name: 4864, dtype: int64
+12.1478228292	-16.0035878872	50	1	0	1	0	1	0	True	two_year_recid    0
+Name: 3614, dtype: int64
+-19.1743697027	6.08309046384	27	1	0	1	0	0	1	True	two_year_recid    0
+Name: 3827, dtype: int64
+9.73474393191	-12.6997991077	38	3	0	1	0	1	0	True	two_year_recid    1
+Name: 2585, dtype: int64
+10.9446340325	-6.1283717436	63	16	1	0	0	0	1	True	two_year_recid    0
+Name: 6828, dtype: int64
+0.809474653298	-14.800643269	21	2	1	0	0	1	0	True	two_year_recid    1
+Name: 5281, dtype: int64
+-11.15214814	-5.94127963628	58	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1905, dtype: int64
+4.57286172176	-0.0996446555985	26	3	1	0	0	0	1	True	two_year_recid    1
+Name: 6813, dtype: int64
+5.49407410406	-5.01806481054	27	2	1	0	0	0	1	True	two_year_recid    0
+Name: 6491, dtype: int64
+15.8570390406	8.56149287057	41	3	0	0	1	1	0	True	two_year_recid    0
+Name: 6325, dtype: int64
+-20.8577863944	-12.1972782805	26	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2106, dtype: int64
+8.41174652739	-6.94267402366	25	11	1	0	0	0	1	True	two_year_recid    1
+Name: 4644, dtype: int64
+0.412101480891	12.035401718	34	6	1	0	0	1	0	False	two_year_recid    0
+Name: 4582, dtype: int64
+1.80224629565	-18.1633087518	21	1	1	0	0	1	0	True	two_year_recid    1
+Name: 3046, dtype: int64
+10.8326282224	-5.61784053379	54	12	1	0	0	0	1	True	two_year_recid    1
+Name: 6536, dtype: int64
+-11.6283354752	13.5670623663	59	3	0	1	0	0	1	True	two_year_recid    0
+Name: 4285, dtype: int64
+-20.857783279	-12.197279474	26	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3410, dtype: int64
+-7.25049568957	19.8241786922	21	0	0	0	1	0	1	True	two_year_recid    1
+Name: 3319, dtype: int64
+-21.2539509068	-12.1401237151	25	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1887, dtype: int64
+-3.87921345161	-1.81065278875	43	2	0	0	0	1	0	True	two_year_recid    1
+Name: 311, dtype: int64
+-13.929601306	12.5472231559	49	1	0	1	0	0	1	True	two_year_recid    0
+Name: 6665, dtype: int64
+-20.2621171675	-13.1572575993	25	1	0	1	0	1	0	True	two_year_recid    0
+Name: 631, dtype: int64
+-11.0230360743	-5.95598041692	57	1	1	0	0	1	0	True	two_year_recid    1
+Name: 430, dtype: int64
+3.15899663615	-15.9101988572	25	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4075, dtype: int64
+-11.1625381637	14.7166356258	75	2	0	1	0	0	1	True	two_year_recid    0
+Name: 2431, dtype: int64
+2.45236363914	-4.32387845541	21	0	1	0	0	0	1	True	two_year_recid    1
+Name: 3449, dtype: int64
+15.5286257434	9.0438860956	36	1	0	0	1	1	0	True	two_year_recid    1
+Name: 1523, dtype: int64
+-10.8032412612	-2.47850345787	47	7	1	0	0	1	0	True	two_year_recid    1
+Name: 7067, dtype: int64
+17.1723512969	9.69123615377	41	9	0	0	1	1	0	True	two_year_recid    0
+Name: 5011, dtype: int64
+-7.31389401791	0.0626734357987	39	17	0	1	0	1	0	True	two_year_recid    1
+Name: 3256, dtype: int64
+-11.4114126397	14.6036008311	69	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1936, dtype: int64
+-19.3087034488	5.79345704816	26	1	0	1	0	0	1	True	two_year_recid    0
+Name: 6602, dtype: int64
+11.1884360003	-19.3233192483	64	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1471, dtype: int64
+-3.51743169043	-0.86004980885	27	0	0	0	0	1	0	True	two_year_recid    1
+Name: 4488, dtype: int64
+-0.171924528887	9.36726009087	49	1	1	0	0	1	0	False	two_year_recid    0
+Name: 3301, dtype: int64
+-17.8700954766	5.57228629884	25	3	0	1	0	0	1	True	two_year_recid    1
+Name: 7084, dtype: int64
+3.7937851295	6.10467621366	25	5	1	0	0	1	0	True	two_year_recid    0
+Name: 1191, dtype: int64
+12.0711716186	-2.18050437522	54	0	1	0	0	0	1	True	two_year_recid    1
+Name: 2726, dtype: int64
+12.0220413114	-2.18819035304	54	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2634, dtype: int64
+-7.40958630898	0.290365062559	20	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5413, dtype: int64
+6.81455495391	4.0709661124	32	3	1	0	0	1	0	True	two_year_recid    0
+Name: 4727, dtype: int64
+2.02046840541	-20.6308944672	20	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1260, dtype: int64
+-11.4661190213	-5.47851658272	59	3	1	0	0	1	0	True	two_year_recid    0
+Name: 3194, dtype: int64
+2.83508833111	17.9090382346	34	0	1	0	0	0	1	False	two_year_recid    1
+Name: 6126, dtype: int64
+4.21347308669	4.68624865135	29	4	1	0	0	1	0	True	two_year_recid    0
+Name: 2111, dtype: int64
+-5.66165029206	18.1741032697	55	0	0	0	1	0	1	True	two_year_recid    0
+Name: 3903, dtype: int64
+9.62942526097	-6.76505424259	33	16	1	0	0	0	1	True	two_year_recid    1
+Name: 4597, dtype: int64
+-4.17629585757	20.1793075285	35	0	0	0	1	0	1	False	two_year_recid    0
+Name: 4277, dtype: int64
+-19.7444683544	-12.0643215721	28	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1809, dtype: int64
+18.8710967939	-6.25156464353	37	1	0	1	0	1	0	False	two_year_recid    0
+Name: 3521, dtype: int64
+11.7719157902	-12.8008592191	41	0	0	1	0	1	0	True	two_year_recid    1
+Name: 5382, dtype: int64
+-12.4437907434	-0.968898942171	55	12	1	0	0	1	0	True	two_year_recid    1
+Name: 3767, dtype: int64
+2.85222445296	-13.6743587993	25	2	1	0	0	1	0	True	two_year_recid    0
+Name: 5249, dtype: int64
+2.45230522075	-4.32381250917	21	0	1	0	0	0	1	True	two_year_recid    0
+Name: 6879, dtype: int64
+11.2024290389	-18.4774186798	59	2	0	1	0	1	0	True	two_year_recid    0
+Name: 1076, dtype: int64
+10.0605290364	-6.97204498083	34	21	1	0	0	0	1	True	two_year_recid    1
+Name: 3567, dtype: int64
+-13.1230151188	13.0630086809	53	1	0	1	0	0	1	True	two_year_recid    1
+Name: 5572, dtype: int64
+-41.4077808839	-30.1539696767	26	2	0	1	0	1	0	True	two_year_recid    0
+Name: 2113, dtype: int64
+11.5881412187	3.21543514023	28	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4587, dtype: int64
+-20.1982843388	9.07892993852	29	7	0	1	0	0	1	True	two_year_recid    1
+Name: 2071, dtype: int64
+-4.66606787604	-11.2820764243	31	2	0	1	0	0	1	False	two_year_recid    0
+Name: 5688, dtype: int64
+1.00259592122	-20.8967035962	22	0	1	0	0	1	0	True	two_year_recid    1
+Name: 116, dtype: int64
+19.5580858195	-4.22606431446	21	0	0	1	0	1	0	False	two_year_recid    1
+Name: 1472, dtype: int64
+-14.2730408475	-12.978212653	28	4	0	1	0	1	0	True	two_year_recid    1
+Name: 2663, dtype: int64
+19.1028221995	-5.66410572758	34	0	0	1	0	1	0	False	two_year_recid    1
+Name: 3886, dtype: int64
+10.6841282041	4.36953393213	31	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4314, dtype: int64
+-3.49496958941	-0.747136902693	25	0	0	0	0	1	0	True	two_year_recid    1
+Name: 4308, dtype: int64
+-16.1361584678	11.0491566682	40	0	0	1	0	0	1	True	two_year_recid    1
+Name: 3808, dtype: int64
+16.1762004876	12.1846744713	21	1	0	0	1	1	0	True	two_year_recid    1
+Name: 3929, dtype: int64
+14.9608592508	10.8220274435	24	0	0	0	1	1	0	True	two_year_recid    1
+Name: 1101, dtype: int64
+-12.734736029	-1.29676060373	61	12	1	0	0	1	0	True	two_year_recid    0
+Name: 4448, dtype: int64
+-5.66973407903	8.42949903833	29	0	0	0	0	1	0	True	two_year_recid    0
+Name: 4255, dtype: int64
+17.7982794188	-8.47555945425	55	6	0	1	0	1	0	False	two_year_recid    0
+Name: 3991, dtype: int64
+14.94650385	10.744633371	25	0	0	0	1	1	0	True	two_year_recid    0
+Name: 969, dtype: int64
+2.3514990077	18.7030566013	26	1	1	0	0	0	1	False	two_year_recid    0
+Name: 5863, dtype: int64
+19.0679374108	-5.18120128963	30	2	0	1	0	1	0	False	two_year_recid    1
+Name: 1681, dtype: int64
+-10.5740011166	-15.848548798	30	14	1	0	0	1	0	True	two_year_recid    0
+Name: 6738, dtype: int64
+17.500928753	-8.69564465407	60	9	0	1	0	1	0	False	two_year_recid    1
+Name: 704, dtype: int64
+-5.23108937858	-11.6535291232	20	0	0	1	0	0	1	False	two_year_recid    1
+Name: 6638, dtype: int64
+-18.7760290157	6.75284206712	29	1	0	1	0	0	1	True	two_year_recid    0
+Name: 1069, dtype: int64
+11.6293976885	-13.2922906123	42	1	0	1	0	1	0	True	two_year_recid    1
+Name: 114, dtype: int64
+15.5790851452	10.9454638471	23	3	0	0	1	1	0	True	two_year_recid    1
+Name: 5518, dtype: int64
+3.74370295471	-5.45045048093	22	2	1	0	0	0	1	True	two_year_recid    1
+Name: 3745, dtype: int64
+5.21783280841	-4.9960138453	26	2	1	0	0	0	1	True	two_year_recid    0
+Name: 2301, dtype: int64
+-3.51398964653	13.3646031905	21	0	1	0	0	1	0	False	two_year_recid    1
+Name: 2551, dtype: int64
+18.1725992704	-8.68372948698	60	2	0	1	0	1	0	False	two_year_recid    0
+Name: 1437, dtype: int64
+-9.47951905777	-6.27043652239	50	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4096, dtype: int64
+-13.1686412126	-12.4293808964	30	6	0	1	0	1	0	True	two_year_recid    0
+Name: 1459, dtype: int64
+-5.68145012958	8.42385232135	22	1	0	0	0	0	1	True	two_year_recid    0
+Name: 7075, dtype: int64
+3.36511558206	-1.7808596808	25	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3061, dtype: int64
+10.2764415468	3.22094417694	29	1	1	0	0	1	0	True	two_year_recid    1
+Name: 6959, dtype: int64
+-3.76637916758	-0.490135573878	23	4	0	0	0	1	0	True	two_year_recid    0
+Name: 4201, dtype: int64
+19.5762117307	-4.16418139626	20	0	0	1	0	1	0	False	two_year_recid    0
+Name: 2890, dtype: int64
+2.30444118374	18.7881192901	25	1	1	0	0	0	1	False	two_year_recid    1
+Name: 6687, dtype: int64
+-12.3911681207	13.5576818969	57	1	0	1	0	0	1	True	two_year_recid    0
+Name: 4191, dtype: int64
+-7.66653294699	4.64115305228	27	12	1	0	0	1	0	True	two_year_recid    1
+Name: 393, dtype: int64
+4.53952364747	-0.123281405997	22	1	1	0	0	0	1	True	two_year_recid    0
+Name: 4619, dtype: int64
+-9.6651845011	-6.24872173496	51	0	1	0	0	1	0	True	two_year_recid    1
+Name: 4148, dtype: int64
+-9.71160919533	2.98361462964	40	15	1	0	0	1	0	True	two_year_recid    1
+Name: 4838, dtype: int64
+15.7138002764	8.73852082892	39	2	0	0	1	1	0	True	two_year_recid    1
+Name: 2349, dtype: int64
+1.0027391217	-20.8972838666	22	0	1	0	0	1	0	True	two_year_recid    0
+Name: 5197, dtype: int64
+5.42219238152	0.243448528717	25	3	1	0	0	0	1	True	two_year_recid    1
+Name: 2749, dtype: int64
+-0.870952932493	13.6014020959	24	4	1	0	0	1	0	False	two_year_recid    1
+Name: 4543, dtype: int64
+-10.284387655	-4.8122705452	51	3	1	0	0	1	0	True	two_year_recid    0
+Name: 4095, dtype: int64
+1.15408615017	2.49699760567	35	4	1	0	0	1	0	True	two_year_recid    1
+Name: 6434, dtype: int64
+1.70955398399	-20.9774319447	21	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2025, dtype: int64
+2.7477913862	17.9894377306	33	0	1	0	0	0	1	False	two_year_recid    0
+Name: 803, dtype: int64
+5.68730458369	-2.83505117496	29	0	1	0	0	0	1	True	two_year_recid    1
+Name: 4373, dtype: int64
+-12.2129398116	-5.54654144282	69	3	1	0	0	1	0	True	two_year_recid    0
+Name: 3515, dtype: int64
+-20.1132594489	5.13989416384	23	0	0	1	0	0	1	True	two_year_recid    1
+Name: 1874, dtype: int64
+15.562501275	8.90934916503	37	1	0	0	1	1	0	True	two_year_recid    0
+Name: 4737, dtype: int64
+-10.4222971916	-15.5028904045	28	11	1	0	0	1	0	True	two_year_recid    1
+Name: 6500, dtype: int64
+1.00258677613	-20.8966250611	22	0	1	0	0	1	0	True	two_year_recid    0
+Name: 3582, dtype: int64
+-4.08438798554	19.8509283625	57	1	0	0	1	0	1	False	two_year_recid    0
+Name: 896, dtype: int64
+4.94046626348	-3.14154180964	27	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2133, dtype: int64
+-2.90856224246	-9.79368624417	55	0	0	1	0	0	1	False	two_year_recid    0
+Name: 6062, dtype: int64
+12.1542124069	-16.0179866513	50	1	0	1	0	1	0	True	two_year_recid    0
+Name: 2885, dtype: int64
+-5.64475491723	8.47112964731	34	1	0	0	0	1	0	False	two_year_recid    0
+Name: 5416, dtype: int64
+-0.554779479178	3.98384240874	37	8	1	0	0	1	0	True	two_year_recid    1
+Name: 1629, dtype: int64
+6.4729360181	-6.77760639166	25	5	1	0	0	0	1	True	two_year_recid    1
+Name: 2562, dtype: int64
+2.7379374953	4.37929997066	31	5	1	0	0	1	0	True	two_year_recid    0
+Name: 686, dtype: int64
+-3.46914631313	-0.508845816613	20	0	0	0	0	1	0	True	two_year_recid    1
+Name: 4280, dtype: int64
+-18.35883133	7.41853670399	31	1	0	1	0	0	1	True	two_year_recid    1
+Name: 1980, dtype: int64
+4.04427052772	19.9853682524	27	10	1	0	0	0	1	False	two_year_recid    1
+Name: 6406, dtype: int64
+10.4394091536	-19.181780306	66	3	0	1	0	1	0	True	two_year_recid    0
+Name: 96, dtype: int64
+19.1771271654	-4.79300278563	27	2	0	1	0	1	0	False	two_year_recid    1
+Name: 3232, dtype: int64
+4.4689225945	5.7975530823	25	4	1	0	0	1	0	True	two_year_recid    1
+Name: 5168, dtype: int64
+-12.1715970124	13.9479259657	60	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5350, dtype: int64
+5.92279394893	-4.61770375287	29	2	1	0	0	0	1	True	two_year_recid    0
+Name: 1567, dtype: int64
+4.98599235724	4.81356455127	27	3	1	0	0	1	0	True	two_year_recid    1
+Name: 121, dtype: int64
+-16.857487082	10.4787229292	36	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5149, dtype: int64
+-14.7358233205	12.1523657801	46	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5845, dtype: int64
+-2.98906244165	13.289977689	23	1	1	0	0	1	0	False	two_year_recid    1
+Name: 3419, dtype: int64
+-1.3947594779	-20.1559109312	26	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6628, dtype: int64
+-2.29832754311	-4.58130372952	33	0	0	0	0	0	1	True	two_year_recid    0
+Name: 6065, dtype: int64
+-16.1318280372	7.69717428891	34	5	0	1	0	0	1	True	two_year_recid    1
+Name: 4044, dtype: int64
+5.2182777465	-4.99600453767	26	2	1	0	0	0	1	True	two_year_recid    0
+Name: 488, dtype: int64
+9.19782797954	4.72862437932	33	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1006, dtype: int64
+0.802293647472	1.38957757358	40	3	1	0	0	1	0	True	two_year_recid    0
+Name: 2160, dtype: int64
+13.7646854234	12.3854611728	22	0	0	0	1	1	0	True	two_year_recid    0
+Name: 270, dtype: int64
+7.50524291309	23.954204446	25	7	1	0	0	1	0	True	two_year_recid    0
+Name: 2052, dtype: int64
+5.84281406651	-3.63773848853	28	1	1	0	0	0	1	True	two_year_recid    0
+Name: 4271, dtype: int64
+15.1602530861	10.6540761681	26	1	0	0	1	1	0	True	two_year_recid    0
+Name: 5027, dtype: int64
+12.4877370398	-15.6814657774	49	0	0	1	0	1	0	True	two_year_recid    0
+Name: 6398, dtype: int64
+-3.65069153429	-1.14489412645	32	1	0	0	0	1	0	True	two_year_recid    0
+Name: 1603, dtype: int64
+-2.62413396646	12.5664185939	26	1	1	0	0	1	0	False	two_year_recid    1
+Name: 5245, dtype: int64
+-6.73802200757	19.1286586222	33	1	0	0	1	0	1	True	two_year_recid    0
+Name: 6648, dtype: int64
+-8.39811092814	-0.326508770837	33	9	1	0	0	0	1	True	two_year_recid    1
+Name: 7021, dtype: int64
+-4.3920828439	-0.0746306095508	24	9	0	0	0	1	0	True	two_year_recid    1
+Name: 318, dtype: int64
+-2.18917684421	-4.63116083604	29	4	0	0	0	0	1	True	two_year_recid    1
+Name: 3674, dtype: int64
+-0.419711950843	-20.6742159756	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 737, dtype: int64
+-4.95717635793	-11.5230909924	26	3	0	1	0	0	1	False	two_year_recid    0
+Name: 1187, dtype: int64
+-14.5146881215	11.58598498	45	2	0	1	0	0	1	True	two_year_recid    0
+Name: 6870, dtype: int64
+19.1329232	-5.2640849229	31	1	0	1	0	1	0	False	two_year_recid    0
+Name: 5279, dtype: int64
+5.67212418479	-2.86167539787	29	0	1	0	0	0	1	True	two_year_recid    0
+Name: 624, dtype: int64
+-13.8675370612	-13.1433294811	27	5	0	1	0	1	0	True	two_year_recid    0
+Name: 4117, dtype: int64
+15.9191163357	7.29584988047	53	1	0	0	1	1	0	True	two_year_recid    0
+Name: 6020, dtype: int64
+-0.144790875318	4.82523778679	32	8	1	0	0	1	0	True	two_year_recid    1
+Name: 3534, dtype: int64
+11.6016465884	-16.6536279256	52	2	0	1	0	1	0	True	two_year_recid    1
+Name: 3739, dtype: int64
+-10.1803847506	3.55445462559	33	17	1	0	0	1	0	True	two_year_recid    1
+Name: 3998, dtype: int64
+-3.54967210026	-0.982498325036	29	0	0	0	0	1	0	True	two_year_recid    0
+Name: 5450, dtype: int64
+-2.12828815716	-4.62678085651	25	2	0	0	0	0	1	True	two_year_recid    0
+Name: 4665, dtype: int64
+9.82148769753	-14.8166380663	44	4	0	1	0	1	0	True	two_year_recid    0
+Name: 5724, dtype: int64
+9.34327011358	20.3201762774	35	12	1	0	0	1	0	True	two_year_recid    0
+Name: 1586, dtype: int64
+-7.27527816042	19.8611924916	20	0	0	0	1	0	1	True	two_year_recid    1
+Name: 3736, dtype: int64
+-4.09588044319	19.8979366842	54	2	0	0	1	0	1	False	two_year_recid    0
+Name: 2811, dtype: int64
+8.32525035759	-1.92481645379	34	0	1	0	0	0	1	True	two_year_recid    1
+Name: 1918, dtype: int64
+5.54802220764	-5.63140784502	26	3	1	0	0	0	1	True	two_year_recid    0
+Name: 2373, dtype: int64
+8.95880501752	-14.7300091217	43	6	0	1	0	1	0	True	two_year_recid    1
+Name: 4732, dtype: int64
+-17.3707666927	7.47438131934	31	3	0	1	0	0	1	True	two_year_recid    0
+Name: 1142, dtype: int64
+-3.48259512375	-0.584250728611	21	0	0	0	0	1	0	True	two_year_recid    0
+Name: 3958, dtype: int64
+15.7305512378	10.458974371	28	3	0	0	1	1	0	True	two_year_recid    1
+Name: 4099, dtype: int64
+-9.79910545859	-14.6072978062	25	4	1	0	0	1	0	True	two_year_recid    1
+Name: 3271, dtype: int64
+-19.2957860803	-7.28978068293	24	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4465, dtype: int64
+-2.33007140697	12.0803012976	28	1	1	0	0	1	0	False	two_year_recid    1
+Name: 3988, dtype: int64
+-9.91843515917	-14.7601229412	32	5	1	0	0	1	0	True	two_year_recid    0
+Name: 4390, dtype: int64
+0.347063180635	11.7534998347	35	5	1	0	0	1	0	False	two_year_recid    1
+Name: 7040, dtype: int64
+-0.196321406992	2.99277019148	40	6	1	0	0	1	0	True	two_year_recid    0
+Name: 2879, dtype: int64
+-41.4115405554	-30.1573222586	23	3	0	1	0	1	0	True	two_year_recid    0
+Name: 4453, dtype: int64
+-16.5541060049	10.1669005613	37	1	0	1	0	0	1	True	two_year_recid    0
+Name: 2273, dtype: int64
+0.574441451976	3.78040918215	34	6	1	0	0	1	0	True	two_year_recid    1
+Name: 6667, dtype: int64
+0.834308593306	-13.5735627916	23	3	1	0	0	1	0	True	two_year_recid    1
+Name: 3302, dtype: int64
+-11.6782535413	0.158979331154	47	13	1	0	0	1	0	True	two_year_recid    1
+Name: 6017, dtype: int64
+5.74706394148	-4.78446991714	28	2	1	0	0	0	1	True	two_year_recid    0
+Name: 215, dtype: int64
+-3.48512878678	-0.692300684354	24	0	0	0	0	1	0	True	two_year_recid    0
+Name: 302, dtype: int64
+-0.111780510996	8.31360328996	75	5	1	0	0	1	0	False	two_year_recid    0
+Name: 1019, dtype: int64
+-19.7225988345	5.79827550972	26	0	0	1	0	0	1	True	two_year_recid    1
+Name: 6328, dtype: int64
+-3.4795199732	5.46027307341	28	2	0	0	0	1	0	True	two_year_recid    0
+Name: 1476, dtype: int64
+2.05715813471	5.14467476139	29	6	1	0	0	1	0	True	two_year_recid    1
+Name: 3626, dtype: int64
+-18.3535405728	-12.4546215713	28	1	0	1	0	1	0	True	two_year_recid    0
+Name: 6252, dtype: int64
+0.830925494213	12.6641635588	30	8	1	0	0	1	0	False	two_year_recid    1
+Name: 4916, dtype: int64
+-14.5789750285	-15.946804161	29	8	0	1	0	1	0	True	two_year_recid    1
+Name: 6589, dtype: int64
+-2.61660541564	12.5583338942	26	1	1	0	0	1	0	False	two_year_recid    0
+Name: 4272, dtype: int64
+-9.92794086207	10.6129847719	43	22	0	1	0	0	1	False	two_year_recid    1
+Name: 4211, dtype: int64
+-20.2452838438	9.00775081751	22	1	0	1	0	0	1	True	two_year_recid    1
+Name: 250, dtype: int64
+-7.25288023083	-6.20681635837	41	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4369, dtype: int64
+-6.75235098213	19.2733779798	32	0	0	0	1	0	1	True	two_year_recid    1
+Name: 2769, dtype: int64
+-11.8849521637	7.57374629026	26	10	0	1	0	0	1	True	two_year_recid    1
+Name: 5471, dtype: int64
+2.05574416202	5.13079450281	29	6	1	0	0	1	0	True	two_year_recid    1
+Name: 4858, dtype: int64
+-11.6817376263	-11.9831387264	31	10	0	1	0	1	0	True	two_year_recid    1
+Name: 1370, dtype: int64
+-10.5172726549	-15.66713748	32	12	1	0	0	1	0	True	two_year_recid    1
+Name: 346, dtype: int64
+-9.96984242994	-4.73196154047	49	3	1	0	0	1	0	True	two_year_recid    0
+Name: 360, dtype: int64
+-20.1756497229	4.74651206418	21	1	0	1	0	0	1	True	two_year_recid    1
+Name: 3283, dtype: int64
+6.58606002759	-6.61557560339	27	5	1	0	0	0	1	True	two_year_recid    1
+Name: 6970, dtype: int64
+-16.8449347473	8.18112299836	34	3	0	1	0	0	1	True	two_year_recid    1
+Name: 3480, dtype: int64
+-6.49225972034	18.7535196545	38	2	0	0	1	0	1	True	two_year_recid    0
+Name: 4438, dtype: int64
+3.70422230458	17.8533834121	40	4	1	0	0	0	1	False	two_year_recid    0
+Name: 2005, dtype: int64
+1.19225957794	1.24025215191	38	2	1	0	0	1	0	True	two_year_recid    1
+Name: 4332, dtype: int64
+13.7677218802	12.3908213408	23	2	0	0	1	1	0	True	two_year_recid    0
+Name: 4144, dtype: int64
+19.5162866884	-4.44015352748	24	0	0	1	0	1	0	False	two_year_recid    0
+Name: 439, dtype: int64
+-7.11484123934	19.5315434595	26	1	0	0	1	0	1	True	two_year_recid    1
+Name: 1281, dtype: int64
+4.81872456978	-4.18486531985	26	1	1	0	0	0	1	True	two_year_recid    0
+Name: 4071, dtype: int64
+-5.7241754644	18.2126476044	53	1	0	0	1	0	1	True	two_year_recid    1
+Name: 3596, dtype: int64
+15.6151154054	8.39173524939	41	0	0	0	1	1	0	True	two_year_recid    0
+Name: 4447, dtype: int64
+-15.9807040108	11.2479417164	41	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5266, dtype: int64
+9.80137279415	-12.8079113767	39	3	0	1	0	1	0	True	two_year_recid    0
+Name: 3708, dtype: int64
+-14.4293735826	11.1408906707	45	3	0	1	0	0	1	True	two_year_recid    1
+Name: 3628, dtype: int64
+9.67522955567	-7.14256481685	35	17	1	0	0	0	1	True	two_year_recid    1
+Name: 1004, dtype: int64
+10.9734776807	-18.8962399688	62	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4541, dtype: int64
+1.64021904082	-20.7356448976	21	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2734, dtype: int64
+-0.0754222769494	8.63620272978	63	1	1	0	0	1	0	False	two_year_recid    0
+Name: 4235, dtype: int64
+0.25397121485	4.41564941203	33	7	1	0	0	1	0	True	two_year_recid    1
+Name: 943, dtype: int64
+-12.695239061	-1.04577190755	60	13	1	0	0	1	0	True	two_year_recid    1
+Name: 7002, dtype: int64
+4.45884884011	-5.31060141469	24	2	1	0	0	0	1	True	two_year_recid    1
+Name: 5856, dtype: int64
+12.7973785275	9.16745298188	29	1	0	0	1	1	0	False	two_year_recid    0
+Name: 5723, dtype: int64
+11.2352206506	-11.3935582149	36	0	0	1	0	1	0	True	two_year_recid    1
+Name: 5172, dtype: int64
+-1.43485532947	-20.587138272	26	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1320, dtype: int64
+-11.0892710485	3.0018576961	37	20	1	0	0	1	0	True	two_year_recid    1
+Name: 3574, dtype: int64
+-0.786360091698	12.2158579141	30	3	1	0	0	1	0	False	two_year_recid    0
+Name: 972, dtype: int64
+8.07309530963	4.21435039156	33	2	1	0	0	1	0	True	two_year_recid    1
+Name: 3677, dtype: int64
+15.9719515663	7.13673032984	56	2	0	0	1	1	0	True	two_year_recid    0
+Name: 6526, dtype: int64
+-1.07892063288	11.5110972191	32	2	1	0	0	1	0	False	two_year_recid    0
+Name: 685, dtype: int64
+4.44127653655	5.52162242805	26	4	1	0	0	1	0	True	two_year_recid    1
+Name: 5036, dtype: int64
+12.2641762245	-14.1812528961	44	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3298, dtype: int64
+-9.00991714406	-6.25020922215	48	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2715, dtype: int64
+19.4940340672	-4.23706429875	21	1	0	1	0	1	0	False	two_year_recid    0
+Name: 6240, dtype: int64
+-8.60873009607	-16.6945761578	32	19	1	0	0	1	0	True	two_year_recid    1
+Name: 5112, dtype: int64
+-11.0464536606	3.3947172263	30	21	1	0	0	1	0	True	two_year_recid    1
+Name: 4521, dtype: int64
+-6.8032309196	19.0318466908	33	2	0	0	1	0	1	True	two_year_recid    0
+Name: 6733, dtype: int64
+3.43204227154	-15.5347249276	26	1	1	0	0	1	0	True	two_year_recid    0
+Name: 6177, dtype: int64
+-0.614472342887	13.7214139913	22	5	1	0	0	1	0	False	two_year_recid    1
+Name: 4770, dtype: int64
+16.0871097849	6.70311738304	75	1	0	0	1	1	0	True	two_year_recid    0
+Name: 4739, dtype: int64
+10.915109333	-10.6775887237	34	0	0	1	0	1	0	True	two_year_recid    1
+Name: 3999, dtype: int64
+-1.30509036144	13.249666798	26	3	1	0	0	1	0	False	two_year_recid    1
+Name: 4752, dtype: int64
+11.4536250942	-11.9510450112	38	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1497, dtype: int64
+-14.2064933406	-11.7676148842	34	4	0	1	0	1	0	True	two_year_recid    1
+Name: 479, dtype: int64
+-11.8457191631	-11.9369825762	33	9	0	1	0	1	0	True	two_year_recid    0
+Name: 3140, dtype: int64
+-16.823843588	-12.3507729533	30	2	0	1	0	1	0	True	two_year_recid    0
+Name: 2166, dtype: int64
+12.0645143762	-2.43787584	54	2	1	0	0	0	1	True	two_year_recid    0
+Name: 983, dtype: int64
+-16.5826143242	8.44689542838	35	3	0	1	0	0	1	True	two_year_recid    1
+Name: 4510, dtype: int64
+-7.29235038793	1.2476393772	39	19	1	0	0	1	0	True	two_year_recid    1
+Name: 3837, dtype: int64
+9.83269026268	-1.63162888287	39	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4807, dtype: int64
+-11.9094128395	-11.5718514295	37	8	0	1	0	1	0	True	two_year_recid    1
+Name: 5230, dtype: int64
+-17.7959755821	5.77131072808	26	3	0	1	0	0	1	True	two_year_recid    1
+Name: 7157, dtype: int64
+-17.590525599	8.62159448129	33	1	0	1	0	0	1	True	two_year_recid    0
+Name: 2162, dtype: int64
+11.9094691873	-2.4326313579	52	2	1	0	0	0	1	True	two_year_recid    0
+Name: 5630, dtype: int64
+-9.97299541274	-4.72373387547	49	3	1	0	0	1	0	True	two_year_recid    0
+Name: 2330, dtype: int64
+10.921403545	-19.5917056817	69	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5926, dtype: int64
+15.2160996372	10.1051109863	30	1	0	0	1	1	0	True	two_year_recid    1
+Name: 4328, dtype: int64
+1.00258742269	-20.8966281734	22	0	1	0	0	1	0	True	two_year_recid    1
+Name: 4606, dtype: int64
+-16.6971454875	6.02427387432	25	6	0	1	0	0	1	True	two_year_recid    1
+Name: 5181, dtype: int64
+-10.3663608141	1.43744263396	51	19	1	0	0	1	0	True	two_year_recid    1
+Name: 5244, dtype: int64
+12.7784870928	9.21461955628	22	2	0	0	1	1	0	False	two_year_recid    1
+Name: 498, dtype: int64
+-6.49296948734	18.8797321905	37	1	0	0	1	0	1	True	two_year_recid    0
+Name: 2986, dtype: int64
+2.35133150787	6.38306114089	24	7	1	0	0	1	0	True	two_year_recid    1
+Name: 5024, dtype: int64
+-1.79009627637	-5.50271045003	30	3	0	0	0	0	1	True	two_year_recid    0
+Name: 2509, dtype: int64
+-3.2622680487	-10.1102068473	48	1	0	1	0	0	1	False	two_year_recid    0
+Name: 2696, dtype: int64
+-20.4612093146	4.71048236832	19	0	0	1	0	0	1	True	two_year_recid    1
+Name: 4877, dtype: int64
+1.80222863551	-18.1632313634	21	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2864, dtype: int64
+-1.7317810283	-0.803699843278	20	1	0	0	0	1	0	False	two_year_recid    0
+Name: 366, dtype: int64
+10.9918101763	3.80759946647	30	0	1	0	0	1	0	True	two_year_recid    0
+Name: 641, dtype: int64
+-5.68068633947	8.42513882886	20	2	0	0	0	1	0	True	two_year_recid    1
+Name: 7091, dtype: int64
+1.64000463558	-20.736019882	21	0	1	0	0	1	0	True	two_year_recid    1
+Name: 2955, dtype: int64
+9.83199986996	-1.61575886932	39	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5932, dtype: int64
+-11.9209877652	0.457615786153	53	15	1	0	0	1	0	True	two_year_recid    1
+Name: 4072, dtype: int64
+11.537056941	-16.0515072272	50	2	0	1	0	1	0	True	two_year_recid    0
+Name: 6380, dtype: int64
+16.0294554396	7.11373633581	56	4	0	0	1	1	0	True	two_year_recid    0
+Name: 3254, dtype: int64
+-2.81858228175	-9.71531959853	57	0	0	1	0	0	1	False	two_year_recid    0
+Name: 4765, dtype: int64
+-2.0162058822	11.356089459	31	0	1	0	0	1	0	False	two_year_recid    1
+Name: 147, dtype: int64
+15.8233766386	7.59866816051	49	0	0	0	1	1	0	True	two_year_recid    0
+Name: 3737, dtype: int64
+12.1355035396	-15.5361061353	48	1	0	1	0	1	0	True	two_year_recid    1
+Name: 521, dtype: int64
+3.90634947828	16.9438667577	47	0	1	0	0	0	1	False	two_year_recid    0
+Name: 2991, dtype: int64
+-6.36149820086	-17.2623075489	21	3	1	0	0	1	0	False	two_year_recid    0
+Name: 1160, dtype: int64
+10.3385787435	-12.3832622644	38	2	0	1	0	1	0	True	two_year_recid    0
+Name: 959, dtype: int64
+-14.1950643297	-13.6437589566	25	4	0	1	0	1	0	True	two_year_recid    0
+Name: 1998, dtype: int64
+8.63644315087	24.5640238571	21	0	1	0	0	1	0	True	two_year_recid    1
+Name: 3231, dtype: int64
+-2.07270012723	-4.62503863444	21	0	0	0	0	0	1	True	two_year_recid    0
+Name: 5805, dtype: int64
+-11.7991650539	-12.1345283814	26	10	0	1	0	1	0	True	two_year_recid    1
+Name: 2946, dtype: int64
+18.6480405555	-6.65629534143	39	2	0	1	0	1	0	False	two_year_recid    1
+Name: 4482, dtype: int64
+0.962170588961	-14.6949519322	22	2	1	0	0	1	0	True	two_year_recid    1
+Name: 3544, dtype: int64
+7.60051621375	-6.99128480638	27	8	1	0	0	0	1	True	two_year_recid    0
+Name: 4876, dtype: int64
+-15.8390742249	6.50079130104	30	11	0	1	0	0	1	True	two_year_recid    1
+Name: 6513, dtype: int64
+7.46445186547	22.2283576667	30	15	1	0	0	1	0	True	two_year_recid    1
+Name: 1469, dtype: int64
+-13.1021084464	-12.1434215575	33	6	0	1	0	1	0	True	two_year_recid    1
+Name: 6237, dtype: int64
+-1.72850743044	11.4463770303	31	1	1	0	0	1	0	False	two_year_recid    1
+Name: 6649, dtype: int64
+4.60104295802	-0.0841811673757	31	5	1	0	0	0	1	True	two_year_recid    1
+Name: 5267, dtype: int64
+-11.2610628172	1.82753493493	45	17	1	0	0	1	0	True	two_year_recid    1
+Name: 2339, dtype: int64
+-9.61058318678	-5.97304871681	50	1	1	0	0	1	0	True	two_year_recid    0
+Name: 2412, dtype: int64
+6.82990711529	4.04874660807	33	3	1	0	0	1	0	True	two_year_recid    1
+Name: 4778, dtype: int64
+10.9690394696	-2.02013713281	45	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3610, dtype: int64
+15.9614232856	7.32331264749	52	3	0	0	1	1	0	True	two_year_recid    0
+Name: 3265, dtype: int64
+-1.43485527527	-20.5871401831	26	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4343, dtype: int64
+9.33685206942	-16.3790260564	51	6	0	1	0	1	0	True	two_year_recid    1
+Name: 3799, dtype: int64
+-7.77717540055	-17.0279494564	24	15	1	0	0	1	0	True	two_year_recid    1
+Name: 6517, dtype: int64
+11.3396847809	3.46401632468	29	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6085, dtype: int64
+-13.1471569183	-12.324846954	31	6	0	1	0	1	0	True	two_year_recid    1
+Name: 18, dtype: int64
+-19.3272973869	-7.26797285409	25	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4775, dtype: int64
+-6.37577369345	18.8747148199	38	0	0	0	1	0	1	True	two_year_recid    0
+Name: 3473, dtype: int64
+2.59466829577	-4.22391209006	22	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2237, dtype: int64
+9.13797248472	5.01832742954	34	1	1	0	0	1	0	True	two_year_recid    0
+Name: 7086, dtype: int64
+-5.90284248922	-11.3521013048	22	1	0	1	0	0	1	False	two_year_recid    0
+Name: 6951, dtype: int64
+-3.7462332623	-1.5201397737	38	1	0	0	0	1	0	True	two_year_recid    0
+Name: 5660, dtype: int64
+-41.40324632	-30.1529559546	26	3	0	1	0	1	0	True	two_year_recid    1
+Name: 629, dtype: int64
+7.37166368937	12.2059380962	24	2	1	0	0	0	1	True	two_year_recid    0
+Name: 4297, dtype: int64
+1.80225485046	-18.1631830925	21	1	1	0	0	1	0	True	two_year_recid    0
+Name: 2818, dtype: int64
+-4.78036633471	-11.3433145818	30	0	0	1	0	0	1	False	two_year_recid    0
+Name: 4399, dtype: int64
+0.123048956507	4.21049914526	34	7	1	0	0	1	0	True	two_year_recid    1
+Name: 4239, dtype: int64
+-6.66029886599	-17.1665394714	30	10	1	0	0	1	0	False	two_year_recid    1
+Name: 3141, dtype: int64
+-11.7028709193	-0.228456395428	47	12	1	0	0	1	0	True	two_year_recid    1
+Name: 5161, dtype: int64
+-17.3707712746	7.47438416724	31	3	0	1	0	0	1	True	two_year_recid    0
+Name: 3813, dtype: int64
+11.7140309726	-17.8334833496	55	1	0	1	0	1	0	True	two_year_recid    1
+Name: 5678, dtype: int64
+-13.1281243202	13.1428950799	53	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3856, dtype: int64
+-16.5160369481	10.7676677934	38	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3774, dtype: int64
+-7.66041517329	-6.24074002485	43	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4334, dtype: int64
+11.3337708759	-19.1434604426	62	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3214, dtype: int64
+-12.3330785164	-12.344255513	27	8	0	1	0	1	0	True	two_year_recid    0
+Name: 326, dtype: int64
+2.01162743588	-18.8240161055	20	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1202, dtype: int64
+4.23025071651	16.588379309	58	3	1	0	0	0	1	False	two_year_recid    0
+Name: 1867, dtype: int64
+11.43707526	-3.21352470134	49	4	1	0	0	0	1	True	two_year_recid    0
+Name: 57, dtype: int64
+-17.495014108	-11.9484411104	31	1	0	1	0	1	0	True	two_year_recid    1
+Name: 6136, dtype: int64
+8.10185437231	4.06307502658	32	2	1	0	0	1	0	True	two_year_recid    1
+Name: 3027, dtype: int64
+12.7928116115	9.17678299584	28	1	0	0	1	1	0	False	two_year_recid    1
+Name: 4708, dtype: int64
+-5.73387817668	18.2336220586	52	0	0	0	1	0	1	True	two_year_recid    0
+Name: 5208, dtype: int64
+-4.01808141618	-10.7418720111	39	0	0	1	0	0	1	False	two_year_recid    0
+Name: 8, dtype: int64
+1.58129913156	12.4750036612	30	11	1	0	0	1	0	False	two_year_recid    1
+Name: 6015, dtype: int64
+19.4810788165	-4.53300307315	25	0	0	1	0	1	0	False	two_year_recid    1
+Name: 3572, dtype: int64
+-1.64781875236	-1.25748620007	24	0	0	0	0	1	0	False	two_year_recid    0
+Name: 2807, dtype: int64
+6.72084681248	4.0729071773	31	3	1	0	0	1	0	True	two_year_recid    1
+Name: 3344, dtype: int64
+1.71405032707	12.3702635454	35	12	1	0	0	1	0	False	two_year_recid    1
+Name: 2264, dtype: int64
+2.08533976013	-17.8181854631	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 7015, dtype: int64
+-3.87957527488	-0.83075741164	29	4	0	0	0	1	0	True	two_year_recid    1
+Name: 6907, dtype: int64
+-0.4200658532	-20.6747352503	24	0	1	0	0	1	0	True	two_year_recid    1
+Name: 5059, dtype: int64
+1.79176965804	12.4168690442	31	14	1	0	0	1	0	False	two_year_recid    0
+Name: 2467, dtype: int64
+-8.31103061938	0.513043287016	20	2	1	0	0	1	0	True	two_year_recid    1
+Name: 1311, dtype: int64
+6.58719247302	-6.64022590845	27	5	1	0	0	0	1	True	two_year_recid    0
+Name: 6556, dtype: int64
+10.4318509703	-10.6809697853	33	1	0	1	0	1	0	True	two_year_recid    0
+Name: 3268, dtype: int64
+14.9467196711	10.9708730556	22	0	0	0	1	1	0	True	two_year_recid    1
+Name: 6755, dtype: int64
+-11.1742403826	2.77343333881	40	20	1	0	0	1	0	True	two_year_recid    0
+Name: 6171, dtype: int64
+-2.78440682505	-9.68374729975	58	1	0	1	0	0	1	False	two_year_recid    0
+Name: 4599, dtype: int64
+0.143025985357	4.21322211085	34	7	1	0	0	1	0	True	two_year_recid    1
+Name: 1711, dtype: int64
+-0.160994299284	11.9305281128	32	4	1	0	0	1	0	False	two_year_recid    1
+Name: 155, dtype: int64
+4.8148444221	-4.17929499588	26	1	1	0	0	0	1	True	two_year_recid    1
+Name: 3474, dtype: int64
+10.0597777144	3.55299640867	30	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1290, dtype: int64
+-9.2189356262	-5.94788714257	48	1	1	0	0	1	0	True	two_year_recid    0
+Name: 2272, dtype: int64
+-6.12244349131	18.4660297035	44	2	0	0	1	0	1	True	two_year_recid    0
+Name: 1071, dtype: int64
+-14.7044097661	-16.0002573925	23	2	0	1	0	1	0	True	two_year_recid    1
+Name: 2938, dtype: int64
+-6.67340716752	4.8957369102	27	10	1	0	0	1	0	True	two_year_recid    1
+Name: 5196, dtype: int64
+18.2140128667	-6.79600428428	40	5	0	1	0	1	0	False	two_year_recid    0
+Name: 3291, dtype: int64
+-8.42588334882	4.26535324503	30	13	1	0	0	1	0	True	two_year_recid    1
+Name: 5617, dtype: int64
+4.22536580249	4.66189169299	29	4	1	0	0	1	0	True	two_year_recid    1
+Name: 65, dtype: int64
+-4.1654781383	-2.32037692391	55	4	0	0	0	1	0	True	two_year_recid    0
+Name: 5026, dtype: int64
+-16.1139006646	9.5473870748	38	2	0	1	0	0	1	True	two_year_recid    0
+Name: 4082, dtype: int64
+-23.8199564634	-11.0979405287	21	1	0	1	0	1	0	True	two_year_recid    0
+Name: 2542, dtype: int64
+-19.2945806111	-7.18762598289	34	5	0	1	0	1	0	True	two_year_recid    1
+Name: 3617, dtype: int64
+8.1513925158	-16.9328900573	54	11	0	1	0	1	0	True	two_year_recid    1
+Name: 6727, dtype: int64
+-20.1331462337	5.13202640972	23	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3864, dtype: int64
+10.0597780566	3.55299620779	30	1	1	0	0	1	0	True	two_year_recid    0
+Name: 2646, dtype: int64
+2.26323706474	-4.78624935552	20	1	1	0	0	0	1	True	two_year_recid    0
+Name: 2685, dtype: int64
+0.862830793459	3.01372653022	35	5	1	0	0	1	0	True	two_year_recid    0
+Name: 6630, dtype: int64
+1.86568385914	-17.4062417496	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 651, dtype: int64
+11.319799411	-19.1042603773	62	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5285, dtype: int64
+2.70082852533	-16.5533560019	24	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3838, dtype: int64
+10.8982451016	-18.2283877102	58	3	0	1	0	1	0	True	two_year_recid    1
+Name: 1607, dtype: int64
+19.4710309865	-4.46233475338	24	0	0	1	0	1	0	False	two_year_recid    0
+Name: 4635, dtype: int64
+10.9313529298	-1.76713739069	45	0	1	0	0	0	1	True	two_year_recid    1
+Name: 3402, dtype: int64
+-18.6708271425	5.29173198638	24	2	0	1	0	0	1	True	two_year_recid    0
+Name: 5732, dtype: int64
+-2.24507568788	-4.59189987676	31	0	0	0	0	0	1	True	two_year_recid    0
+Name: 4991, dtype: int64
+16.8967132747	10.1930710546	31	8	0	0	1	1	0	True	two_year_recid    1
+Name: 3157, dtype: int64
+7.50393886186	-6.43511933661	32	6	1	0	0	0	1	True	two_year_recid    1
+Name: 3720, dtype: int64
+11.1612759905	-12.3484192427	39	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4948, dtype: int64
+12.7970662205	9.16817508767	29	0	0	0	1	1	0	False	two_year_recid    0
+Name: 5818, dtype: int64
+-2.01620584166	11.3560894526	31	0	1	0	0	1	0	False	two_year_recid    0
+Name: 4891, dtype: int64
+9.07181202795	-3.14797584741	37	3	1	0	0	0	1	True	two_year_recid    1
+Name: 4840, dtype: int64
+-18.3535399247	-12.4546215039	28	1	0	1	0	1	0	True	two_year_recid    1
+Name: 6559, dtype: int64
+-7.92916806979	4.45135960256	29	12	1	0	0	1	0	True	two_year_recid    1
+Name: 2117, dtype: int64
+-4.09746165752	-2.62176063371	69	0	0	0	0	1	0	True	two_year_recid    0
+Name: 0, dtype: int64
+-12.2366542307	7.51154037571	22	4	0	1	0	0	1	True	two_year_recid    1
+Name: 6341, dtype: int64
+8.58639072145	24.5668047066	21	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2206, dtype: int64
+-5.0553494176	-11.5405908109	25	0	0	1	0	0	1	False	two_year_recid    0
+Name: 3701, dtype: int64
+-10.442688243	-5.45408916986	53	2	1	0	0	1	0	True	two_year_recid    0
+Name: 388, dtype: int64
+-7.64910386056	18.3232891106	28	11	0	0	1	0	1	True	two_year_recid    0
+Name: 1312, dtype: int64
+-3.7316370873	-1.58918422664	39	0	0	0	0	1	0	True	two_year_recid    0
+Name: 265, dtype: int64
+1.8052979171	12.3168361479	40	13	1	0	0	1	0	False	two_year_recid    1
+Name: 3911, dtype: int64
+2.09965040299	18.9093436873	22	0	1	0	0	0	1	False	two_year_recid    0
+Name: 3732, dtype: int64
+7.25876328933	23.7130887247	29	9	1	0	0	1	0	True	two_year_recid    1
+Name: 6704, dtype: int64
+-13.8678073645	-13.677716306	24	5	0	1	0	1	0	True	two_year_recid    1
+Name: 5641, dtype: int64
+1.05190492479	-10.4080963374	20	1	1	0	0	1	0	True	two_year_recid    0
+Name: 596, dtype: int64
+0.686005312511	1.28091135849	41	3	1	0	0	1	0	True	two_year_recid    0
+Name: 3984, dtype: int64
+-6.87556112846	19.3737613625	30	0	0	0	1	0	1	True	two_year_recid    0
+Name: 1181, dtype: int64
+9.36888506156	-5.58139354245	37	8	1	0	0	0	1	True	two_year_recid    1
+Name: 2150, dtype: int64
+-3.57431809901	-0.773941865261	26	1	0	0	0	1	0	True	two_year_recid    1
+Name: 5683, dtype: int64
+8.61668207971	-2.50883001075	35	2	1	0	0	0	1	True	two_year_recid    0
+Name: 1485, dtype: int64
+-2.83924780069	-9.73039942387	57	0	0	1	0	0	1	False	two_year_recid    1
+Name: 638, dtype: int64
+-4.71118026306	-11.2913453756	31	0	0	1	0	0	1	False	two_year_recid    0
+Name: 1818, dtype: int64
+15.8252565388	9.30202809609	35	3	0	0	1	1	0	True	two_year_recid    1
+Name: 4161, dtype: int64
+16.7533787371	10.2607627295	30	7	0	0	1	1	0	True	two_year_recid    1
+Name: 5474, dtype: int64
+-2.09279509562	-4.66168176363	23	5	0	0	0	0	1	True	two_year_recid    1
+Name: 2506, dtype: int64
+10.7652673002	-10.2138303183	32	0	0	1	0	1	0	True	two_year_recid    1
+Name: 4571, dtype: int64
+3.55748306707	-12.9239864826	28	2	1	0	0	1	0	True	two_year_recid    1
+Name: 5061, dtype: int64
+11.8382799965	-18.1079503165	56	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1522, dtype: int64
+5.45936975427	-5.01999780624	27	2	1	0	0	0	1	True	two_year_recid    1
+Name: 2511, dtype: int64
+-8.28443465779	0.699751688187	41	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5238, dtype: int64
+-17.366150704	8.1487531384	33	2	0	1	0	0	1	True	two_year_recid    0
+Name: 5650, dtype: int64
+-17.1062418056	8.47426126757	34	2	0	1	0	0	1	True	two_year_recid    0
+Name: 1345, dtype: int64
+18.4402440142	-6.36048165318	36	4	0	1	0	1	0	False	two_year_recid    1
+Name: 5327, dtype: int64
+2.42825222175	-4.12806748581	25	1	1	0	0	0	1	True	two_year_recid    0
+Name: 2824, dtype: int64
+15.9938735377	6.98754781602	61	0	0	0	1	1	0	True	two_year_recid    0
+Name: 6151, dtype: int64
+-7.23422141924	19.7934277314	21	0	0	0	1	0	1	True	two_year_recid    0
+Name: 2802, dtype: int64
+7.61919330272	-6.7014506615	31	7	1	0	0	0	1	True	two_year_recid    0
+Name: 5189, dtype: int64
+-3.51876856838	-0.485085117308	20	1	0	0	0	1	0	True	two_year_recid    1
+Name: 6797, dtype: int64
+0.0825477159266	3.21053464981	38	6	1	0	0	1	0	True	two_year_recid    1
+Name: 1670, dtype: int64
+-10.4530130787	11.0404136053	56	13	0	1	0	0	1	True	two_year_recid    0
+Name: 5292, dtype: int64
+-9.42091651562	-5.9525320994	49	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1707, dtype: int64
+1.98699620661	6.03039632549	26	7	1	0	0	1	0	True	two_year_recid    1
+Name: 5576, dtype: int64
+15.3419837813	10.9291570713	23	2	0	0	1	1	0	True	two_year_recid    1
+Name: 4291, dtype: int64
+-11.7243705518	14.1367228561	63	1	0	1	0	0	1	True	two_year_recid    0
+Name: 556, dtype: int64
+9.63606659199	-10.7908454354	32	2	0	1	0	1	0	True	two_year_recid    1
+Name: 2472, dtype: int64
+-4.00568024782	-10.7389808593	39	1	0	1	0	0	1	False	two_year_recid    1
+Name: 848, dtype: int64
+-7.8922664915	-6.23653788248	44	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2364, dtype: int64
+-0.265376699874	3.57840854288	38	7	1	0	0	1	0	True	two_year_recid    1
+Name: 4667, dtype: int64
+10.7347500723	-3.206430252	43	4	1	0	0	0	1	True	two_year_recid    1
+Name: 2604, dtype: int64
+-20.4189966017	4.7934551535	20	0	0	1	0	0	1	True	two_year_recid    1
+Name: 4431, dtype: int64
+7.34769615888	-6.54763614142	31	6	1	0	0	0	1	True	two_year_recid    0
+Name: 3155, dtype: int64
+-7.98715300905	19.6522960424	26	2	0	0	1	0	1	True	two_year_recid    0
+Name: 4866, dtype: int64
+-6.87266863705	19.3918723832	30	0	0	0	1	0	1	True	two_year_recid    0
+Name: 6823, dtype: int64
+10.6575813526	-11.2008268945	35	1	0	1	0	1	0	True	two_year_recid    0
+Name: 506, dtype: int64
+-3.58170732998	-1.10521948966	31	0	0	0	0	1	0	True	two_year_recid    0
+Name: 6929, dtype: int64
+-16.1361645999	11.049159973	40	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3066, dtype: int64
+12.4565076943	-14.9485109466	46	0	0	1	0	1	0	True	two_year_recid    0
+Name: 6160, dtype: int64
+-41.4113643182	-30.1551273796	24	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4748, dtype: int64
+15.639316965	-9.6501483541	52	23	0	1	0	1	0	False	two_year_recid    1
+Name: 6480, dtype: int64
+-2.72547567489	13.7682057813	21	2	1	0	0	1	0	False	two_year_recid    0
+Name: 40, dtype: int64
+-9.26881543606	2.93916568327	41	13	1	0	0	1	0	True	two_year_recid    0
+Name: 2672, dtype: int64
+1.20996902167	11.6192088773	42	8	1	0	0	1	0	False	two_year_recid    1
+Name: 6915, dtype: int64
+-12.7016054176	-1.67988358438	60	10	1	0	0	1	0	True	two_year_recid    0
+Name: 2998, dtype: int64
+-8.75961252384	-16.840409631	32	24	1	0	0	1	0	True	two_year_recid    1
+Name: 1651, dtype: int64
+-1.04088408958	4.13623266137	37	9	1	0	0	1	0	True	two_year_recid    1
+Name: 2411, dtype: int64
+2.36587345825	5.68821110731	27	6	1	0	0	1	0	True	two_year_recid    0
+Name: 6299, dtype: int64
+-5.16122496322	2.83754079683	27	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5455, dtype: int64
+-41.4103805034	-30.1552863953	25	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4618, dtype: int64
+6.86831927103	-6.87701813475	26	6	1	0	0	0	1	True	two_year_recid    0
+Name: 5173, dtype: int64
+3.83959736726	20.015867192	22	2	1	0	0	0	1	False	two_year_recid    1
+Name: 3625, dtype: int64
+0.19243304225	-20.8581152402	23	0	1	0	0	1	0	True	two_year_recid    0
+Name: 5657, dtype: int64
+16.0753935561	6.93521352737	62	5	0	0	1	1	0	True	two_year_recid    0
+Name: 5609, dtype: int64
+10.6820887798	-15.3622090462	47	3	0	1	0	1	0	True	two_year_recid    0
+Name: 3822, dtype: int64
+-0.10570061177	8.42899802436	70	1	1	0	0	1	0	False	two_year_recid    0
+Name: 1571, dtype: int64
+-4.36937134825	-2.10807980712	48	7	0	0	0	1	0	True	two_year_recid    0
+Name: 3980, dtype: int64
+4.13371088269	16.7401667227	52	3	1	0	0	0	1	False	two_year_recid    0
+Name: 5963, dtype: int64
+-18.1670219674	-7.72151913536	22	1	0	1	0	1	0	True	two_year_recid    1
+Name: 729, dtype: int64
+1.6402213461	-20.7356349747	21	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2796, dtype: int64
+10.4475067285	-10.6914578393	33	1	0	1	0	1	0	True	two_year_recid    1
+Name: 3725, dtype: int64
+15.0781109549	11.9934338726	21	3	0	0	1	1	0	True	two_year_recid    0
+Name: 331, dtype: int64
+-12.9919805926	-2.8897640027	71	8	1	0	0	1	0	True	two_year_recid    0
+Name: 749, dtype: int64
+2.02046769955	-20.6308915598	20	0	1	0	0	1	0	True	two_year_recid    1
+Name: 2110, dtype: int64
+8.94753486164	-3.88311791819	36	4	1	0	0	0	1	True	two_year_recid    0
+Name: 4210, dtype: int64
+-12.5282968003	13.6202159476	57	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6726, dtype: int64
+-12.7231365074	-1.92170371475	61	9	1	0	0	1	0	True	two_year_recid    0
+Name: 5424, dtype: int64
+18.4764006776	-6.80933989841	40	3	0	1	0	1	0	False	two_year_recid    1
+Name: 6982, dtype: int64
+-7.23896537838	-6.21314591125	41	0	1	0	0	1	0	True	two_year_recid    0
+Name: 13, dtype: int64
+14.9224129969	11.0753496185	21	0	0	0	1	1	0	True	two_year_recid    1
+Name: 541, dtype: int64
+3.15707535807	-13.2980123537	26	2	1	0	0	1	0	True	two_year_recid    0
+Name: 5295, dtype: int64
+-0.140158947373	9.0976435878	53	0	1	0	0	1	0	False	two_year_recid    0
+Name: 764, dtype: int64
+2.99682795534	6.3872969064	24	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5962, dtype: int64
+-23.8198544804	-11.0979441595	21	1	0	1	0	1	0	True	two_year_recid    0
+Name: 5321, dtype: int64
+-19.8385724969	5.55646002085	25	0	0	1	0	0	1	True	two_year_recid    1
+Name: 3810, dtype: int64
+-10.7384134198	-2.91065320928	48	6	1	0	0	1	0	True	two_year_recid    0
+Name: 3326, dtype: int64
+-41.4103804757	-30.1552862502	25	2	0	1	0	1	0	True	two_year_recid    1
+Name: 6954, dtype: int64
+1.05249204991	-10.397486215	20	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5969, dtype: int64
+2.83250487709	-4.17085732783	23	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5068, dtype: int64
+-16.3338783644	6.34110536387	29	7	0	1	0	0	1	True	two_year_recid    1
+Name: 1302, dtype: int64
+9.07575121564	21.2254981779	20	0	0	1	0	1	0	True	two_year_recid    1
+Name: 5578, dtype: int64
+-20.3451327603	4.87939685718	21	0	0	1	0	0	1	True	two_year_recid    1
+Name: 4707, dtype: int64
+-3.37949863639	13.1113527152	23	0	1	0	0	1	0	False	two_year_recid    0
+Name: 4518, dtype: int64
+16.2591944668	10.5835892291	26	5	0	0	1	1	0	True	two_year_recid    0
+Name: 5793, dtype: int64
+9.65513552934	5.36433226478	34	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6426, dtype: int64
+-11.1267320529	2.61917312489	41	19	1	0	0	1	0	True	two_year_recid    0
+Name: 5699, dtype: int64
+4.58129618487	-0.0936217979619	26	4	1	0	0	0	1	True	two_year_recid    0
+Name: 245, dtype: int64
+8.72311213824	-1.81412334236	35	0	1	0	0	0	1	True	two_year_recid    1
+Name: 4935, dtype: int64
+1.8022552376	-18.1631832025	21	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4868, dtype: int64
+4.18679746757	16.616722894	56	0	1	0	0	0	1	False	two_year_recid    0
+Name: 69, dtype: int64
+-15.5515968161	9.4542069	41	3	0	1	0	0	1	True	two_year_recid    1
+Name: 4357, dtype: int64
+9.68219599986	-18.8635837961	69	6	0	1	0	1	0	True	two_year_recid    1
+Name: 1797, dtype: int64
+-1.28722298191	13.2606930232	26	3	1	0	0	1	0	False	two_year_recid    1
+Name: 3224, dtype: int64
+-13.1430681585	-12.2526250073	32	6	0	1	0	1	0	True	two_year_recid    0
+Name: 5291, dtype: int64
+-0.420243087078	-20.6751556361	24	0	1	0	0	1	0	True	two_year_recid    1
+Name: 790, dtype: int64
+8.87016160521	-13.5544757629	38	5	0	1	0	1	0	True	two_year_recid    0
+Name: 6154, dtype: int64
+9.68220978358	3.92929320501	31	1	1	0	0	1	0	True	two_year_recid    0
+Name: 6385, dtype: int64
+-11.9492146235	-0.822422420991	50	11	1	0	0	1	0	True	two_year_recid    0
+Name: 738, dtype: int64
+-5.60659904909	2.85306170082	35	13	1	0	0	1	0	True	two_year_recid    1
+Name: 5981, dtype: int64
+4.50457602336	-5.28243686445	24	2	1	0	0	0	1	True	two_year_recid    1
+Name: 1890, dtype: int64
+2.83675224781	-13.6885885576	25	2	1	0	0	1	0	True	two_year_recid    0
+Name: 2085, dtype: int64
+9.41376519434	4.35441970974	32	1	1	0	0	1	0	True	two_year_recid    1
+Name: 1626, dtype: int64
+-9.0291826994	3.2629228092	39	13	1	0	0	1	0	True	two_year_recid    1
+Name: 868, dtype: int64
+11.3197994287	-19.1042609029	62	0	0	1	0	1	0	True	two_year_recid    0
+Name: 308, dtype: int64
+-7.47295771749	1.22508922794	31	16	1	0	0	1	0	True	two_year_recid    1
+Name: 3204, dtype: int64
+-0.420242818356	-20.6751547877	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 5503, dtype: int64
+-5.02951320412	-12.3423667568	24	3	0	1	0	0	1	False	two_year_recid    1
+Name: 4064, dtype: int64
+1.82888802927	-17.7471581756	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2374, dtype: int64
+11.3210691939	3.45778285558	29	0	1	0	0	1	0	True	two_year_recid    1
+Name: 44, dtype: int64
+-12.0591955281	7.53464745882	32	6	0	1	0	0	1	True	two_year_recid    0
+Name: 1820, dtype: int64
+8.65521570676	-14.1026473735	39	6	0	1	0	1	0	True	two_year_recid    0
+Name: 3933, dtype: int64
+-18.0797911838	-12.3177904054	29	1	0	1	0	1	0	True	two_year_recid    0
+Name: 1587, dtype: int64
+9.01414030719	-4.41517055192	36	5	1	0	0	0	1	True	two_year_recid    1
+Name: 954, dtype: int64
+18.2121454727	-8.53753197843	57	2	0	1	0	1	0	False	two_year_recid    0
+Name: 6235, dtype: int64
+-8.14263572429	-6.23350397408	45	0	1	0	0	1	0	True	two_year_recid    1
+Name: 2544, dtype: int64
+2.17963066617	-17.0594481715	23	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5808, dtype: int64
+-23.6688421126	-11.6883128133	20	0	0	1	0	1	0	True	two_year_recid    1
+Name: 5040, dtype: int64
+-2.62413395498	12.5664186786	26	1	1	0	0	1	0	False	two_year_recid    0
+Name: 5047, dtype: int64
+1.64000517093	-20.7360163507	21	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6191, dtype: int64
+8.86013892643	22.720443124	20	0	1	0	0	1	0	True	two_year_recid    1
+Name: 752, dtype: int64
+-14.2855320995	12.4516101458	48	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2220, dtype: int64
+9.38117763787	5.71356854944	36	0	1	0	0	1	0	True	two_year_recid    0
+Name: 1606, dtype: int64
+19.4710309783	-4.46233437055	24	0	0	1	0	1	0	False	two_year_recid    0
+Name: 4645, dtype: int64
+-21.9377464805	-12.0192832444	24	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1756, dtype: int64
+-11.1346759001	2.61088788792	41	19	1	0	0	1	0	True	two_year_recid    1
+Name: 4804, dtype: int64
+12.9327159819	-2.5255996778	69	3	1	0	0	0	1	True	two_year_recid    0
+Name: 1451, dtype: int64
+-4.19874035308	20.2335559048	30	3	0	0	1	0	1	False	two_year_recid    1
+Name: 2104, dtype: int64
+0.0621594357858	9.56992065444	46	4	1	0	0	1	0	False	two_year_recid    0
+Name: 6573, dtype: int64
+-23.5575677298	-11.6937478227	20	0	0	1	0	1	0	True	two_year_recid    0
+Name: 940, dtype: int64
+-14.3117432066	-12.4791194022	30	4	0	1	0	1	0	True	two_year_recid    0
+Name: 3111, dtype: int64
+-13.5141240053	12.7975156282	51	1	0	1	0	0	1	True	two_year_recid    0
+Name: 3679, dtype: int64
+3.25177619511	-3.97441686115	24	0	1	0	0	0	1	True	two_year_recid    1
+Name: 7054, dtype: int64
+-1.37356346034	-3.63774081694	28	0	0	0	0	0	1	False	two_year_recid    1
+Name: 4507, dtype: int64
+-5.88821868296	18.3377973351	48	1	0	0	1	0	1	True	two_year_recid    0
+Name: 1577, dtype: int64
+8.55711873731	24.581147572	23	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3125, dtype: int64
+9.30186770931	21.182934091	25	5	0	0	1	1	0	True	two_year_recid    0
+Name: 1650, dtype: int64
+4.8148454204	-4.17929523463	26	1	1	0	0	0	1	True	two_year_recid    0
+Name: 6486, dtype: int64
+11.4685461739	-3.96821729123	53	6	1	0	0	0	1	True	two_year_recid    1
+Name: 3357, dtype: int64
+-4.02737144741	-2.40559060963	57	0	0	0	0	1	0	True	two_year_recid    0
+Name: 4637, dtype: int64
+11.5511431374	-12.2002780961	39	0	0	1	0	1	0	True	two_year_recid    1
+Name: 193, dtype: int64
+18.0135885005	-6.46682035934	36	7	0	1	0	1	0	False	two_year_recid    1
+Name: 5533, dtype: int64
+12.4757156938	-15.8918841198	50	0	0	1	0	1	0	True	two_year_recid    1
+Name: 3219, dtype: int64
+12.7223915281	-2.54658465878	63	3	1	0	0	0	1	True	two_year_recid    0
+Name: 919, dtype: int64
+-8.14580801771	-6.24959073869	45	0	1	0	0	1	0	True	two_year_recid    1
+Name: 6179, dtype: int64
+-2.45453598404	-9.37942560388	64	7	0	1	0	0	1	False	two_year_recid    0
+Name: 2001, dtype: int64
+-10.2985177756	-4.80809146793	51	3	1	0	0	1	0	True	two_year_recid    0
+Name: 4352, dtype: int64
+-16.5155712505	9.15444308467	36	2	0	1	0	0	1	True	two_year_recid    0
+Name: 5209, dtype: int64
+9.89482176893	-6.72046536377	37	17	1	0	0	0	1	True	two_year_recid    0
+Name: 5376, dtype: int64
+-11.6092994038	1.29576648135	52	17	1	0	0	1	0	True	two_year_recid    1
+Name: 6877, dtype: int64
+-41.4117368814	-30.1554262393	24	2	0	1	0	1	0	True	two_year_recid    0
+Name: 989, dtype: int64
+15.5532114036	8.62273608469	39	0	0	0	1	1	0	True	two_year_recid    0
+Name: 1339, dtype: int64
+-0.684235382469	10.1670364474	40	0	1	0	0	1	0	False	two_year_recid    0
+Name: 1744, dtype: int64
+-2.93917287789	-9.82358332002	54	1	0	1	0	0	1	False	two_year_recid    0
+Name: 4505, dtype: int64
+-13.7849655758	-12.7260677873	29	5	0	1	0	1	0	True	two_year_recid    0
+Name: 4264, dtype: int64
+-10.2354259408	-15.1767998594	25	9	1	0	0	1	0	True	two_year_recid    0
+Name: 3532, dtype: int64
+15.5016721483	8.72078139614	38	0	0	0	1	1	0	True	two_year_recid    0
+Name: 1067, dtype: int64
+-23.3981130308	-11.6843848069	21	0	0	1	0	1	0	True	two_year_recid    1
+Name: 1680, dtype: int64
+-23.4518895051	-11.6903144882	21	0	0	1	0	1	0	True	two_year_recid    1
+Name: 2515, dtype: int64
+-11.0747239041	3.30576940518	32	21	1	0	0	1	0	True	two_year_recid    1
+Name: 1975, dtype: int64
+-4.98866605535	-11.5074757678	26	1	0	1	0	0	1	False	two_year_recid    0
+Name: 6926, dtype: int64
+-5.91066622655	18.3603219318	48	1	0	0	1	0	1	True	two_year_recid    0
+Name: 3608, dtype: int64
+15.1104786853	9.95109871343	31	0	0	0	1	1	0	True	two_year_recid    0
+Name: 2700, dtype: int64
+-41.4070317244	-30.1552117582	25	3	0	1	0	1	0	True	two_year_recid    0
+Name: 4969, dtype: int64
+10.9403977723	-11.8541911184	37	1	0	1	0	1	0	True	two_year_recid    1
+Name: 5302, dtype: int64
+-15.4824365492	11.6633293695	43	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1913, dtype: int64
+-4.54143804287	-11.1725471177	33	1	0	1	0	0	1	False	two_year_recid    0
+Name: 928, dtype: int64
+-10.1386124282	-15.0492961268	26	8	1	0	0	1	0	True	two_year_recid    0
+Name: 706, dtype: int64
+-12.4600749202	-0.955943360078	55	12	1	0	0	1	0	True	two_year_recid    0
+Name: 6414, dtype: int64
+5.67212445637	-2.86167534211	29	0	1	0	0	0	1	True	two_year_recid    0
+Name: 6872, dtype: int64
+-5.14117728869	-11.623544743	22	2	0	1	0	0	1	False	two_year_recid    1
+Name: 3476, dtype: int64
+15.7629959964	8.01317831081	45	1	0	0	1	1	0	True	two_year_recid    0
+Name: 4832, dtype: int64
+2.0204676184	-20.6308925667	20	0	1	0	0	1	0	True	two_year_recid    1
+Name: 524, dtype: int64
+-5.66605779211	8.42624285751	36	1	0	0	0	1	0	True	two_year_recid    0
+Name: 5696, dtype: int64
+11.5765639756	-18.2597320221	57	1	0	1	0	1	0	True	two_year_recid    0
+Name: 3590, dtype: int64
+-1.64316827314	-1.37281272621	33	0	0	0	0	1	0	False	two_year_recid    0
+Name: 6724, dtype: int64
+8.89430622873	-2.00931304748	36	1	1	0	0	0	1	True	two_year_recid    0
+Name: 6675, dtype: int64
+-10.5037197794	-4.37520976144	51	4	1	0	0	1	0	True	two_year_recid    0
+Name: 5148, dtype: int64
+18.6661405407	-7.64585208085	45	0	0	1	0	1	0	False	two_year_recid    1
+Name: 5139, dtype: int64
+-2.10068667904	-4.63235595423	23	2	0	0	0	0	1	True	two_year_recid    0
+Name: 768, dtype: int64
+13.5838291372	12.6078915434	21	1	0	0	1	1	0	True	two_year_recid    0
+Name: 1343, dtype: int64
+-6.7412643569	19.1234955375	33	1	0	0	1	0	1	True	two_year_recid    0
+Name: 6206, dtype: int64
+19.4512890462	-4.55173032089	25	0	0	1	0	1	0	False	two_year_recid    0
+Name: 1965, dtype: int64
+3.3894028482	-13.1726908599	27	2	1	0	0	1	0	True	two_year_recid    1
+Name: 149, dtype: int64
+-1.35773781748	-3.645228108	21	0	0	0	0	0	1	False	two_year_recid    0
+Name: 4904, dtype: int64
+-8.88808200741	4.57235066825	24	15	1	0	0	1	0	True	two_year_recid    1
+Name: 4331, dtype: int64
+-4.15573285792	20.1196846088	40	1	0	0	1	0	1	False	two_year_recid    0
+Name: 1083, dtype: int64
+9.65015968768	-17.4439578997	56	5	0	1	0	1	0	True	two_year_recid    0
+Name: 2314, dtype: int64
+-3.82491488727	-0.40047910351	22	5	0	0	0	1	0	True	two_year_recid    1
+Name: 1392, dtype: int64
+-9.89096703555	-6.26877299359	52	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2338, dtype: int64
+10.2138484183	-15.7237573892	49	4	0	1	0	1	0	True	two_year_recid    0
+Name: 2065, dtype: int64
+18.4818920545	-8.22843112306	52	0	0	1	0	1	0	False	two_year_recid    0
+Name: 4247, dtype: int64
+6.25755203155	-3.14630978907	30	1	1	0	0	0	1	True	two_year_recid    0
+Name: 6676, dtype: int64
+1.01337685313	-20.9800055148	22	0	1	0	0	1	0	True	two_year_recid    0
+Name: 1637, dtype: int64
+2.53528605006	18.8340358098	26	2	1	0	0	0	1	False	two_year_recid    1
+Name: 158, dtype: int64
+10.8692941126	-2.41239077215	44	2	1	0	0	0	1	True	two_year_recid    0
+Name: 6347, dtype: int64
+-8.95821541188	3.89771296161	33	14	1	0	0	1	0	True	two_year_recid    1
+Name: 1899, dtype: int64
+9.0801232331	-12.8910004545	36	4	0	1	0	1	0	True	two_year_recid    1
+Name: 2281, dtype: int64
+9.83553769104	5.16731440635	33	0	1	0	0	1	0	True	two_year_recid    1
+Name: 902, dtype: int64
+-18.3535401036	-12.4546217312	28	1	0	1	0	1	0	True	two_year_recid    0
+Name: 238, dtype: int64
+-2.99478334554	13.3019781326	23	1	1	0	0	1	0	False	two_year_recid    0
+Name: 826, dtype: int64
+2.67733384989	-16.5712416899	24	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4879, dtype: int64
+-11.8368032663	-12.1281642301	26	10	0	1	0	1	0	True	two_year_recid    1
+Name: 5470, dtype: int64
+-13.8510637091	12.4155089999	49	2	0	1	0	0	1	True	two_year_recid    0
+Name: 1635, dtype: int64
+-3.52525678013	-0.529235027861	21	1	0	0	0	1	0	True	two_year_recid    1
+Name: 758, dtype: int64
+-19.2966844631	-7.30590421182	21	0	0	1	0	1	0	True	two_year_recid    1
+Name: 4914, dtype: int64
+8.9292317481	21.9164357396	23	1	1	0	0	1	0	True	two_year_recid    1
+Name: 6529, dtype: int64
+9.35274684167	-13.395671725	40	4	0	1	0	1	0	True	two_year_recid    1
+Name: 4666, dtype: int64
+-1.67953436737	10.9504829356	34	0	1	0	0	1	0	False	two_year_recid    0
+Name: 6054, dtype: int64
+13.0610844479	-2.47877478439	77	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5075, dtype: int64
+3.22443899263	18.3084231377	33	3	1	0	0	0	1	False	two_year_recid    0
+Name: 4359, dtype: int64
+-19.7050648439	5.78647320636	26	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6258, dtype: int64
+10.5295883135	-10.9062318011	34	1	0	1	0	1	0	True	two_year_recid    0
+Name: 7177, dtype: int64
+-18.5700882301	7.06202722575	30	1	0	1	0	0	1	True	two_year_recid    1
+Name: 6859, dtype: int64
+-3.49633572294	5.46693815261	22	0	0	0	0	0	1	True	two_year_recid    1
+Name: 2762, dtype: int64
+3.14956158276	4.80257467846	29	5	1	0	0	1	0	True	two_year_recid    1
+Name: 1652, dtype: int64
+1.12367819828	-14.6100462289	23	2	1	0	0	1	0	True	two_year_recid    1
+Name: 1155, dtype: int64
+-11.498134202	-2.76212943364	52	7	1	0	0	1	0	True	two_year_recid    1
+Name: 2823, dtype: int64
+10.4400958539	-1.65897782964	42	0	1	0	0	0	1	True	two_year_recid    0
+Name: 7029, dtype: int64
+-0.0262278089937	8.94395567854	56	2	1	0	0	1	0	False	two_year_recid    0
+Name: 5123, dtype: int64
+10.738082979	-2.39967213193	43	2	1	0	0	0	1	True	two_year_recid    0
+Name: 5916, dtype: int64
+-11.1923542014	-11.8099848312	38	12	0	1	0	1	0	True	two_year_recid    0
+Name: 3698, dtype: int64
+-11.0088870736	3.51279278751	27	21	1	0	0	1	0	True	two_year_recid    1
+Name: 5918, dtype: int64
+0.0712941908737	9.26127664246	50	4	1	0	0	1	0	False	two_year_recid    0
+Name: 3358, dtype: int64
+0.76583892553	2.88870457647	36	5	1	0	0	1	0	True	two_year_recid    0
+Name: 992, dtype: int64
+2.44377029882	-4.27720023311	21	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2538, dtype: int64
+6.83816029157	4.07640226913	32	3	1	0	0	1	0	True	two_year_recid    1
+Name: 6141, dtype: int64
+3.36424443733	-15.6028819865	26	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5656, dtype: int64
+-23.5575670696	-11.693747574	20	0	0	1	0	1	0	True	two_year_recid    1
+Name: 1938, dtype: int64
+-9.96568361971	-14.8302898772	28	6	1	0	0	1	0	True	two_year_recid    1
+Name: 2866, dtype: int64
+-11.0855857342	-1.61475757517	46	9	1	0	0	1	0	True	two_year_recid    0
+Name: 3744, dtype: int64
+2.51623671704	18.269237739	30	0	1	0	0	0	1	False	two_year_recid    0
+Name: 3627, dtype: int64
+4.63672202864	6.56013994591	22	4	1	0	0	1	0	True	two_year_recid    1
+Name: 384, dtype: int64
+-23.0691176563	-11.6583085034	22	0	0	1	0	1	0	True	two_year_recid    0
+Name: 4500, dtype: int64
+2.07370516624	18.9357234844	22	0	1	0	0	0	1	False	two_year_recid    1
+Name: 4679, dtype: int64
+3.7093526565	5.82678381348	26	5	1	0	0	1	0	True	two_year_recid    1
+Name: 933, dtype: int64
+0.698605651819	-13.6817861727	22	3	1	0	0	1	0	True	two_year_recid    1
+Name: 1445, dtype: int64
+7.84365612641	22.5533514147	25	11	1	0	0	1	0	True	two_year_recid    1
+Name: 3680, dtype: int64
+-4.01127331117	-2.35749275982	57	0	0	0	0	1	0	True	two_year_recid    0
+Name: 7211, dtype: int64
+8.57470998604	24.5615387627	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 7116, dtype: int64
+-0.445289361974	13.4258176755	26	5	1	0	0	1	0	False	two_year_recid    1
+Name: 6149, dtype: int64
+0.941116806889	-14.6909343089	22	2	1	0	0	1	0	True	two_year_recid    1
+Name: 754, dtype: int64
+-0.179169022804	4.83514007065	32	8	1	0	0	1	0	True	two_year_recid    1
+Name: 1807, dtype: int64
+9.98745332322	-11.2113680638	34	2	0	1	0	1	0	True	two_year_recid    1
+Name: 4050, dtype: int64
+15.8059336763	9.60670266935	33	3	0	0	1	1	0	True	two_year_recid    0
+Name: 5394, dtype: int64
+-20.5382166732	4.68840182069	19	0	0	1	0	0	1	True	two_year_recid    1
+Name: 1662, dtype: int64
+9.58809092924	-1.63351528422	38	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5730, dtype: int64
+-8.34795714114	4.36776573049	29	13	1	0	0	1	0	True	two_year_recid    1
+Name: 2559, dtype: int64
+18.1914185482	-8.87856488065	65	1	0	1	0	1	0	False	two_year_recid    0
+Name: 3057, dtype: int64
+8.04070415023	-5.26507781784	35	12	1	0	0	0	1	True	two_year_recid    1
+Name: 7152, dtype: int64
+18.419102071	-8.14231301312	51	1	0	1	0	1	0	False	two_year_recid    0
+Name: 6663, dtype: int64
+9.54745820962	-18.7162558801	68	7	0	1	0	1	0	True	two_year_recid    1
+Name: 5199, dtype: int64
+-41.407780878	-30.1539696064	26	2	0	1	0	1	0	True	two_year_recid    1
+Name: 795, dtype: int64
+1.64000573842	-20.7360164145	21	0	1	0	0	1	0	True	two_year_recid    1
+Name: 4849, dtype: int64
+-14.9713084919	12.0113977309	45	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6071, dtype: int64
+13.5913037692	8.07186523776	58	1	0	0	1	1	0	False	two_year_recid    0
+Name: 6110, dtype: int64
+9.33030444898	-1.67596742298	37	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2781, dtype: int64
+-41.4027766798	-30.1507840039	27	2	0	1	0	1	0	True	two_year_recid    1
+Name: 4685, dtype: int64
+-6.83758650212	-17.2993727991	27	9	1	0	0	1	0	True	two_year_recid    1
+Name: 3394, dtype: int64
+3.55701297765	17.2987816424	42	0	1	0	0	0	1	False	two_year_recid    1
+Name: 4671, dtype: int64
+-3.01089646819	-4.38800533281	54	0	0	0	0	0	1	True	two_year_recid    0
+Name: 3609, dtype: int64
+10.4297814417	-12.5580317497	39	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4694, dtype: int64
+-18.0678663793	7.02606157646	29	2	0	1	0	0	1	True	two_year_recid    0
+Name: 5937, dtype: int64
+1.43334195406	18.0517365046	28	1	1	0	0	0	1	False	two_year_recid    1
+Name: 5480, dtype: int64
+9.83555632931	5.16729571984	33	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4495, dtype: int64
+-2.48688140823	-9.40620888348	69	2	0	1	0	0	1	False	two_year_recid    0
+Name: 5625, dtype: int64
+-6.60673124608	-15.8152621569	23	7	0	0	1	0	1	False	two_year_recid    1
+Name: 3785, dtype: int64
+9.18813313814	-17.2467016649	56	7	0	1	0	1	0	True	two_year_recid    1
+Name: 2698, dtype: int64
+-4.21671703938	20.2698634964	26	0	0	0	1	0	1	False	two_year_recid    0
+Name: 5632, dtype: int64
+-0.474277515423	10.019485504	42	1	1	0	0	1	0	False	two_year_recid    0
+Name: 4363, dtype: int64
+19.1117441645	-5.04191154043	29	2	0	1	0	1	0	False	two_year_recid    1
+Name: 3854, dtype: int64
+-2.54702047883	11.8770734347	28	0	1	0	0	1	0	False	two_year_recid    0
+Name: 207, dtype: int64
+10.4186334658	2.94573634582	28	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1000, dtype: int64
+6.03136859566	-2.75035059697	30	0	1	0	0	0	1	True	two_year_recid    0
+Name: 6104, dtype: int64
+14.9332012685	10.8442331031	24	0	0	0	1	1	0	True	two_year_recid    0
+Name: 476, dtype: int64
+-10.6670031304	-1.92697865874	43	8	1	0	0	1	0	True	two_year_recid    1
+Name: 3802, dtype: int64
+-14.7358233207	12.1523658257	46	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5874, dtype: int64
+-9.22251876356	-4.51678904305	45	3	1	0	0	1	0	True	two_year_recid    0
+Name: 216, dtype: int64
+-15.8195274945	8.10668052097	37	5	0	1	0	0	1	True	two_year_recid    0
+Name: 2993, dtype: int64
+-7.38594584198	0.12027424892	24	5	1	0	0	1	0	True	two_year_recid    1
+Name: 3868, dtype: int64
+-3.0160951129	-4.37154240866	56	0	0	0	0	0	1	True	two_year_recid    0
+Name: 5490, dtype: int64
+1.8656890741	-17.4062136296	22	1	1	0	0	1	0	True	two_year_recid    0
+Name: 715, dtype: int64
+-20.2505702075	9.00136300438	22	0	0	1	0	0	1	True	two_year_recid    1
+Name: 1640, dtype: int64
+-17.2423442799	10.1023180943	34	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1176, dtype: int64
+-12.7470480365	-12.472004327	28	7	0	1	0	1	0	True	two_year_recid    1
+Name: 2733, dtype: int64
+-7.85818859343	-16.9002774601	29	15	1	0	0	1	0	True	two_year_recid    1
+Name: 5896, dtype: int64
+-11.1878918153	14.0450415204	65	4	0	1	0	0	1	True	two_year_recid    0
+Name: 1758, dtype: int64
+-3.30687926996	12.9028798816	24	0	1	0	0	1	0	False	two_year_recid    0
+Name: 6567, dtype: int64
+9.51268307131	5.54466103224	35	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2683, dtype: int64
+11.5237727636	-12.1995010515	39	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2488, dtype: int64
+-0.458459063469	-21.0371478388	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4874, dtype: int64
+8.30020075257	-14.5614843858	40	8	0	1	0	1	0	True	two_year_recid    1
+Name: 6913, dtype: int64
+-19.2962673475	-7.30452473517	19	1	0	1	0	1	0	True	two_year_recid    1
+Name: 437, dtype: int64
+-9.09949429681	3.57842014553	36	14	1	0	0	1	0	True	two_year_recid    1
+Name: 398, dtype: int64
+-0.19300857652	9.58861982664	46	2	1	0	0	1	0	False	two_year_recid    1
+Name: 451, dtype: int64
+9.22699620599	-17.4670908452	58	7	0	1	0	1	0	True	two_year_recid    1
+Name: 5971, dtype: int64
+-10.3244600128	-15.3434357015	26	10	1	0	0	1	0	True	two_year_recid    1
+Name: 4168, dtype: int64
+6.67850523745	-5.99792371894	31	4	1	0	0	0	1	True	two_year_recid    1
+Name: 1955, dtype: int64
+4.60805001838	-0.0827384220827	33	6	1	0	0	0	1	True	two_year_recid    1
+Name: 4689, dtype: int64
+-14.9606224148	12.0179875365	45	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1289, dtype: int64
+-14.1992819453	-13.6780637369	25	4	0	1	0	1	0	True	two_year_recid    1
+Name: 5859, dtype: int64
+-17.9824787736	5.34968745852	23	3	0	1	0	0	1	True	two_year_recid    1
+Name: 2711, dtype: int64
+-6.23769650194	5.00949903742	26	9	1	0	0	1	0	True	two_year_recid    1
+Name: 892, dtype: int64
+6.30469384744	23.3407908464	46	9	1	0	0	1	0	True	two_year_recid    1
+Name: 3230, dtype: int64
+7.36413079713	21.4129237992	34	21	1	0	0	1	0	True	two_year_recid    1
+Name: 38, dtype: int64
+-5.67216441995	8.42719269604	26	2	0	0	0	1	0	True	two_year_recid    1
+Name: 7123, dtype: int64
+-3.27451898837	12.9154872054	24	0	1	0	0	1	0	False	two_year_recid    0
+Name: 1137, dtype: int64
+-7.44479499509	-6.23257416958	42	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1992, dtype: int64
+10.0597773005	3.55299640038	30	1	1	0	0	1	0	True	two_year_recid    0
+Name: 861, dtype: int64
+10.9754041801	-17.9219010982	56	3	0	1	0	1	0	True	two_year_recid    0
+Name: 3528, dtype: int64
+12.7886704583	9.18559454456	27	0	0	0	1	1	0	False	two_year_recid    0
+Name: 1128, dtype: int64
+9.85360236789	5.19833417914	33	0	1	0	0	1	0	True	two_year_recid    0
+Name: 3197, dtype: int64
+-9.58943356109	7.79465605518	31	14	0	1	0	1	0	False	two_year_recid    0
+Name: 5396, dtype: int64
+-23.7312249834	-10.9312660223	21	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4830, dtype: int64
+-12.7555183965	-12.3915298907	29	7	0	1	0	1	0	True	two_year_recid    1
+Name: 1994, dtype: int64
+1.00258720486	-20.8966289214	22	0	1	0	0	1	0	True	two_year_recid    0
+Name: 1945, dtype: int64
+-16.0999309932	9.54937613168	38	2	0	1	0	0	1	True	two_year_recid    0
+Name: 3260, dtype: int64
+-8.01210290269	-16.6880337059	22	7	1	0	0	1	0	True	two_year_recid    1
+Name: 3343, dtype: int64
+10.9406805493	-11.8519889261	37	1	0	1	0	1	0	True	two_year_recid    1
+Name: 2465, dtype: int64
+-19.3016406227	-11.8508844796	29	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2489, dtype: int64
+-1.65792508632	-1.55230732498	48	0	0	0	0	1	0	False	two_year_recid    0
+Name: 553, dtype: int64
+-12.4106663962	-2.14688874089	56	8	1	0	0	1	0	True	two_year_recid    0
+Name: 1021, dtype: int64
+-1.05685900069	12.8212280463	28	3	1	0	0	1	0	False	two_year_recid    1
+Name: 2196, dtype: int64
+2.3601347686	5.68523438624	27	6	1	0	0	1	0	True	two_year_recid    1
+Name: 1512, dtype: int64
+-10.7945565558	3.42337250838	31	19	1	0	0	1	0	True	two_year_recid    1
+Name: 1877, dtype: int64
+-20.7265549457	-12.9851877975	25	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4307, dtype: int64
+18.7595176408	-6.17132630579	36	2	0	1	0	1	0	False	two_year_recid    0
+Name: 4041, dtype: int64
+2.19216085286	18.9990931336	22	1	1	0	0	0	1	False	two_year_recid    0
+Name: 6375, dtype: int64
+-2.37542894906	11.6638938557	29	0	1	0	0	1	0	False	two_year_recid    0
+Name: 7049, dtype: int64
+7.39140227814	12.3402167974	27	1	1	0	0	0	1	True	two_year_recid    0
+Name: 7171, dtype: int64
+5.18256135028	-3.97091210896	27	1	1	0	0	0	1	True	two_year_recid    0
+Name: 6509, dtype: int64
+11.3566731079	-18.7335621131	60	1	0	1	0	1	0	True	two_year_recid    0
+Name: 1009, dtype: int64
+0.436834097182	3.60167918855	35	6	1	0	0	1	0	True	two_year_recid    1
+Name: 6243, dtype: int64
+5.87800510914	-5.58846613181	28	3	1	0	0	0	1	True	two_year_recid    0
+Name: 5628, dtype: int64
+-2.89115176415	-9.78146037103	55	0	0	1	0	0	1	False	two_year_recid    0
+Name: 2667, dtype: int64
+10.4321843191	2.8836436296	28	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2393, dtype: int64
+2.10484667267	18.8638395195	23	0	1	0	0	0	1	False	two_year_recid    0
+Name: 1361, dtype: int64
+12.4349038956	-14.9653288012	46	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1024, dtype: int64
+8.67355323256	-4.08486116948	34	4	1	0	0	0	1	True	two_year_recid    1
+Name: 48, dtype: int64
+7.4355621165	23.8864537842	28	7	1	0	0	1	0	True	two_year_recid    1
+Name: 1479, dtype: int64
+-9.95041931721	-14.8152474185	26	6	1	0	0	1	0	True	two_year_recid    1
+Name: 4603, dtype: int64
+-6.94163241864	-15.8719391437	20	3	1	0	0	0	1	False	two_year_recid    0
+Name: 4971, dtype: int64
+1.04302212758	2.35488799866	36	4	1	0	0	1	0	True	two_year_recid    0
+Name: 3467, dtype: int64
+3.12673721939	6.47241240638	23	6	1	0	0	1	0	True	two_year_recid    1
+Name: 6409, dtype: int64
+10.1662215268	23.9464628223	20	4	1	0	0	1	0	True	two_year_recid    1
+Name: 4815, dtype: int64
+10.1283307912	4.8892505908	32	0	1	0	0	1	0	True	two_year_recid    1
+Name: 3272, dtype: int64
+1.86568028412	-17.4062553596	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 4822, dtype: int64
+-7.12201046668	-6.07867507887	41	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5025, dtype: int64
+2.37003755926	18.443116255	28	0	1	0	0	0	1	False	two_year_recid    1
+Name: 5915, dtype: int64
+-16.8796009639	10.486208674	36	0	0	1	0	0	1	True	two_year_recid    0
+Name: 4287, dtype: int64
+3.7146617731	17.1470401112	44	0	1	0	0	0	1	False	two_year_recid    0
+Name: 4125, dtype: int64
+-14.5669467982	-15.9364968871	25	9	0	1	0	1	0	True	two_year_recid    1
+Name: 2934, dtype: int64
+0.645428997674	-13.7432438988	21	3	1	0	0	1	0	True	two_year_recid    1
+Name: 1799, dtype: int64
+-2.11252598175	-4.6377164268	24	3	0	0	0	0	1	True	two_year_recid    1
+Name: 3178, dtype: int64
+7.3741966749	12.7068587599	29	9	1	0	0	0	1	False	two_year_recid    1
+Name: 2221, dtype: int64
+-8.11225470019	0.632485813816	34	8	1	0	0	1	0	True	two_year_recid    0
+Name: 2953, dtype: int64
+-16.4339969909	6.1245549889	26	7	0	1	0	0	1	True	two_year_recid    1
+Name: 1130, dtype: int64
+13.769472804	12.387450861	21	1	0	0	1	1	0	True	two_year_recid    1
+Name: 995, dtype: int64
+3.22385223109	-4.01475478248	24	0	1	0	0	0	1	True	two_year_recid    1
+Name: 5357, dtype: int64
+2.90441164136	19.1110925136	25	4	1	0	0	0	1	False	two_year_recid    1
+Name: 1667, dtype: int64
+-23.3981137508	-11.6843842453	21	0	0	1	0	1	0	True	two_year_recid    1
+Name: 3355, dtype: int64
+-7.95186297731	3.97104658682	33	11	1	0	0	1	0	True	two_year_recid    1
+Name: 2055, dtype: int64
+2.6773334623	-16.5712398598	24	1	1	0	0	1	0	True	two_year_recid    1
+Name: 860, dtype: int64
+16.3888112185	10.158942846	31	5	0	0	1	1	0	True	two_year_recid    1
+Name: 5817, dtype: int64
+-18.3330350992	-12.4874561736	28	1	0	1	0	1	0	True	two_year_recid    0
+Name: 1417, dtype: int64
+10.784512329	-15.7349550253	49	3	0	1	0	1	0	True	two_year_recid    1
+Name: 7024, dtype: int64
+-0.47279597792	13.5218816113	25	5	1	0	0	1	0	False	two_year_recid    0
+Name: 2120, dtype: int64
+9.66360233791	-16.0237008193	50	5	0	1	0	1	0	True	two_year_recid    1
+Name: 577, dtype: int64
+3.35281349617	-1.78750279145	22	0	1	0	0	0	1	True	two_year_recid    1
+Name: 400, dtype: int64
+7.12814033491	23.7564218791	35	8	1	0	0	1	0	True	two_year_recid    1
+Name: 468, dtype: int64
+19.4509707639	-4.63432868181	26	0	0	1	0	1	0	False	two_year_recid    0
+Name: 939, dtype: int64
+2.19809287003	-17.015201415	23	1	1	0	0	1	0	True	two_year_recid    1
+Name: 1090, dtype: int64
+7.29064558265	23.725756583	27	9	1	0	0	1	0	True	two_year_recid    1
+Name: 1082, dtype: int64
+2.70827023909	18.2344845967	31	1	1	0	0	0	1	False	two_year_recid    0
+Name: 4920, dtype: int64
+1.72412139935	1.39836702988	36	2	1	0	0	1	0	True	two_year_recid    1
+Name: 3036, dtype: int64
+-5.07825148025	-11.5545675638	24	0	0	1	0	0	1	False	two_year_recid    0
+Name: 1352, dtype: int64
+18.2207833877	-7.42682963903	45	4	0	1	0	1	0	False	two_year_recid    0
+Name: 141, dtype: int64
+-8.18587767439	1.21863135793	30	20	1	0	0	1	0	True	two_year_recid    1
+Name: 1424, dtype: int64
+9.65924627554	5.39448904024	34	0	1	0	0	1	0	True	two_year_recid    0
+Name: 3592, dtype: int64
+-11.3609882351	1.12603976858	45	15	1	0	0	1	0	True	two_year_recid    1
+Name: 2268, dtype: int64
+9.93383278266	24.0532234902	21	1	1	0	0	1	0	True	two_year_recid    1
+Name: 3081, dtype: int64
+8.26523139897	24.4343176446	26	3	1	0	0	1	0	True	two_year_recid    0
+Name: 552, dtype: int64
+-41.4111495616	-30.153469196	23	2	0	1	0	1	0	True	two_year_recid    0
+Name: 548, dtype: int64
+18.1569578139	9.76971190579	45	20	0	0	1	1	0	True	two_year_recid    1
+Name: 986, dtype: int64
+5.19509984763	-5.08962557458	26	2	1	0	0	0	1	True	two_year_recid    0
+Name: 7154, dtype: int64
+-10.4732870738	-2.57696875703	44	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5069, dtype: int64
+-19.1834704437	6.08307102795	27	1	0	1	0	0	1	True	two_year_recid    1
+Name: 5101, dtype: int64
+-3.25715095234	-10.1075661639	48	1	0	1	0	0	1	False	two_year_recid    1
+Name: 3748, dtype: int64
+-10.7137274161	-16.2065062824	28	18	1	0	0	1	0	True	two_year_recid    1
+Name: 5509, dtype: int64
+-11.5045214048	14.3666267642	66	1	0	1	0	0	1	True	two_year_recid    0
+Name: 1666, dtype: int64
+-19.9442827421	8.99369990547	21	1	0	1	0	0	1	True	two_year_recid    0
+Name: 2486, dtype: int64
+-17.7859559157	-12.1436398416	30	1	0	1	0	1	0	True	two_year_recid    1
+Name: 4108, dtype: int64
+-19.0566590566	-6.77260682489	29	9	0	1	0	1	0	True	two_year_recid    1
+Name: 5481, dtype: int64
+2.05715832384	5.14467513936	29	6	1	0	0	1	0	True	two_year_recid    1
+Name: 5592, dtype: int64
+-3.176485494	13.5480371488	21	1	1	0	0	1	0	False	two_year_recid    0
+Name: 6360, dtype: int64
+-8.54509988517	3.55782228525	37	12	1	0	0	1	0	True	two_year_recid    1
+Name: 4170, dtype: int64
+9.41363562117	4.35441480055	32	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3252, dtype: int64
+-9.57212536512	-14.3968880867	20	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5605, dtype: int64
+-15.9471762091	9.08030712571	38	3	0	1	0	0	1	True	two_year_recid    0
+Name: 5759, dtype: int64
+18.9822564358	-6.3812120221	38	0	0	1	0	1	0	False	two_year_recid    0
+Name: 6316, dtype: int64
+15.543326701	8.60351221303	39	0	0	0	1	1	0	True	two_year_recid    0
+Name: 5078, dtype: int64
+-11.8018560198	13.3656387335	57	3	0	1	0	0	1	True	two_year_recid    0
+Name: 5477, dtype: int64
+-3.06951979666	-9.94072649099	51	0	0	1	0	0	1	False	two_year_recid    1
+Name: 4469, dtype: int64
+-13.5144494096	12.7948674331	51	1	0	1	0	0	1	True	two_year_recid    1
+Name: 5976, dtype: int64
+-18.9015975687	-12.7272352585	27	1	0	1	0	1	0	True	two_year_recid    0
+Name: 1121, dtype: int64
+-8.31654263539	0.95376383585	49	13	1	0	0	1	0	True	two_year_recid    0
+Name: 3965, dtype: int64
+8.92681473323	-15.2875535143	46	7	0	1	0	1	0	True	two_year_recid    1
+Name: 3489, dtype: int64
+-8.34541296998	3.86372842977	34	12	1	0	0	1	0	True	two_year_recid    0
+Name: 3108, dtype: int64
+-9.3478364254	-16.3736208831	27	11	1	0	0	1	0	True	two_year_recid    0
+Name: 6722, dtype: int64
+4.28106231429	4.92486226692	28	4	1	0	0	1	0	True	two_year_recid    1
+Name: 1524, dtype: int64
+-3.56464489494	-1.04407105748	30	0	0	0	0	1	0	True	two_year_recid    0
+Name: 794, dtype: int64
+-9.42091650904	-5.95253249981	49	1	1	0	0	1	0	True	two_year_recid    1
+Name: 1075, dtype: int64
+1.81094029123	5.84626265803	27	7	1	0	0	1	0	True	two_year_recid    1
+Name: 3325, dtype: int64
+-17.7920557478	7.57152089903	31	2	0	1	0	0	1	True	two_year_recid    1
+Name: 6643, dtype: int64
+-6.1343950253	18.5390025432	43	1	0	0	1	0	1	True	two_year_recid    1
+Name: 6010, dtype: int64
+-8.12361656624	3.68135668768	36	11	1	0	0	1	0	True	two_year_recid    1
+Name: 6937, dtype: int64
+-0.845395452012	5.11595132392	30	9	1	0	0	1	0	True	two_year_recid    1
+Name: 2541, dtype: int64
+-8.23845081768	0.53974127156	27	5	1	0	0	1	0	True	two_year_recid    1
+Name: 1013, dtype: int64
+-20.4969208282	-12.1304667914	27	0	0	1	0	1	0	True	two_year_recid    0
+Name: 4790, dtype: int64
+-9.57395457854	-16.5589879225	28	21	1	0	0	1	0	True	two_year_recid    0
+Name: 3223, dtype: int64
+-8.31247270034	-16.364096044	26	8	0	1	0	1	0	True	two_year_recid    1
+Name: 2318, dtype: int64
+18.5101316979	-7.80059057815	47	1	0	1	0	1	0	False	two_year_recid    1
+Name: 14, dtype: int64
+-9.69872778129	-14.5113204644	22	3	1	0	0	1	0	True	two_year_recid    0
+Name: 657, dtype: int64
+-16.1089326523	11.0540571822	40	0	0	1	0	0	1	True	two_year_recid    1
+Name: 3728, dtype: int64
+10.8065622592	-6.49361296041	58	21	1	0	0	0	1	True	two_year_recid    1
+Name: 426, dtype: int64
+11.5662258496	-18.2500873261	57	1	0	1	0	1	0	True	two_year_recid    0
+Name: 3783, dtype: int64
+-3.59907781802	-1.16603800324	32	0	0	0	0	1	0	True	two_year_recid    0
+Name: 5002, dtype: int64
+-9.60068183784	-4.63755451561	47	3	1	0	0	1	0	True	two_year_recid    0
+Name: 6093, dtype: int64
+-3.4188122146	13.1094121006	23	0	1	0	0	1	0	False	two_year_recid    0
+Name: 3292, dtype: int64
+-3.5617207628	13.3851627356	21	0	1	0	0	1	0	False	two_year_recid    0
+Name: 2575, dtype: int64
+4.2574929134	4.21968780474	31	4	1	0	0	1	0	True	two_year_recid    1
+Name: 3843, dtype: int64
+3.37032452679	-13.0429481891	27	2	1	0	0	1	0	True	two_year_recid    0
+Name: 6622, dtype: int64
+0.12868742652	11.9679734305	33	5	1	0	0	1	0	False	two_year_recid    0
+Name: 4283, dtype: int64
+-17.9281840671	7.28470795588	30	2	0	1	0	0	1	True	two_year_recid    1
+Name: 5079, dtype: int64
+-20.1399476962	-13.0400959033	26	1	0	1	0	1	0	True	two_year_recid    1
+Name: 2867, dtype: int64
+-7.00724858009	4.888937008	24	11	1	0	0	1	0	True	two_year_recid    1
+Name: 7045, dtype: int64
+-13.8202417993	-12.9413558253	28	5	0	1	0	1	0	True	two_year_recid    1
+Name: 2968, dtype: int64
+15.3453164974	10.9606435085	23	2	0	0	1	1	0	True	two_year_recid    0
+Name: 7099, dtype: int64
+-8.01283073204	-6.02578541131	44	1	1	0	0	1	0	True	two_year_recid    0
+Name: 698, dtype: int64
+17.9333680911	10.2980007984	30	14	0	0	1	1	0	True	two_year_recid    1
+Name: 4985, dtype: int64
+-7.32590635775	0.0464125248966	30	8	1	0	0	0	1	True	two_year_recid    1
+Name: 5735, dtype: int64
+15.0911072621	9.93609103068	31	0	0	0	1	1	0	True	two_year_recid    0
+Name: 2772, dtype: int64
+-12.169954753	13.9248122372	60	0	0	1	0	0	1	True	two_year_recid    1
+Name: 7175, dtype: int64
+7.56279860139	-16.8118145982	46	14	0	1	0	1	0	True	two_year_recid    1
+Name: 5053, dtype: int64
+-2.34128260977	13.3902009597	24	2	1	0	0	1	0	False	two_year_recid    0
+Name: 3629, dtype: int64
+-9.8523179669	-14.7019167365	24	5	1	0	0	1	0	True	two_year_recid    1
+Name: 854, dtype: int64
+-1.6435631495	-1.45750408206	40	0	0	0	0	1	0	False	two_year_recid    0
+Name: 2210, dtype: int64
+-11.5249321676	0.934219861392	47	15	1	0	0	1	0	True	two_year_recid    0
+Name: 2935, dtype: int64
+0.192432839993	-20.8581090223	23	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4391, dtype: int64
+-2.05989550633	-4.62782510487	20	0	0	0	0	0	1	True	two_year_recid    1
+Name: 2743, dtype: int64
+4.92232816503	-3.1019036337	27	0	1	0	0	0	1	True	two_year_recid    0
+Name: 3483, dtype: int64
+-19.2786154511	6.56188988252	29	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3276, dtype: int64
+-14.2152730095	-13.4855355584	26	4	0	1	0	1	0	True	two_year_recid    1
+Name: 6922, dtype: int64
+-3.10026336353	13.4612422778	22	1	1	0	0	1	0	False	two_year_recid    0
+Name: 2911, dtype: int64
+-7.52451212671	-16.0988596159	24	12	1	0	0	0	1	True	two_year_recid    0
+Name: 6940, dtype: int64
+-16.9343508031	-12.482654667	29	2	0	1	0	1	0	True	two_year_recid    1
+Name: 6045, dtype: int64
+18.0504517226	-8.31071535881	53	4	0	1	0	1	0	False	two_year_recid    1
+Name: 1775, dtype: int64
+-18.5648740466	7.05091027815	30	1	0	1	0	0	1	True	two_year_recid    0
+Name: 6352, dtype: int64
+-3.7140618396	-10.5477700379	42	5	0	1	0	0	1	False	two_year_recid    1
+Name: 3686, dtype: int64
+3.55330701641	-4.73293079393	24	1	1	0	0	0	1	True	two_year_recid    0
+Name: 697, dtype: int64
+0.0584530126289	11.4460483428	36	4	1	0	0	1	0	False	two_year_recid    1
+Name: 731, dtype: int64
+-2.33115217604	12.0899687005	28	1	1	0	0	1	0	False	two_year_recid    0
+Name: 1784, dtype: int64
+-7.25776579468	19.8276684976	20	0	0	0	1	0	1	True	two_year_recid    1
+Name: 4523, dtype: int64
+4.94046645932	-3.14154176424	27	0	1	0	0	0	1	True	two_year_recid    0
+Name: 2495, dtype: int64
+5.81431722187	0.295488762261	27	6	1	0	0	0	1	True	two_year_recid    0
+Name: 6330, dtype: int64
+3.7629277988	-3.69211515971	25	0	1	0	0	0	1	True	two_year_recid    0
+Name: 3342, dtype: int64
+11.8405179511	2.9864406438	27	0	1	0	0	1	0	True	two_year_recid    0
+Name: 4802, dtype: int64
+-4.59361689557	-11.2258938605	32	2	0	1	0	0	1	False	two_year_recid    0
+Name: 5447, dtype: int64
+7.91067496391	-5.1519018879	30	8	1	0	0	0	1	True	two_year_recid    1
+Name: 6668, dtype: int64
+4.61680191821	-0.0894191310301	29	8	1	0	0	0	1	True	two_year_recid    1
+Name: 4048, dtype: int64
+19.1781038461	-4.32376551327	23	3	0	1	0	1	0	False	two_year_recid    0
+Name: 620, dtype: int64
+14.9211227009	11.0000319684	22	0	0	0	1	1	0	True	two_year_recid    1
+Name: 5065, dtype: int64
+15.8839672323	7.36890966857	52	0	0	0	1	1	0	True	two_year_recid    0
+Name: 664, dtype: int64
+-4.82226702686	-11.3867267602	29	1	0	1	0	0	1	False	two_year_recid    1
+Name: 3669, dtype: int64
+7.30034856096	-6.94042174924	27	7	1	0	0	0	1	True	two_year_recid    1
+Name: 6807, dtype: int64
+3.27687524729	18.9774833162	28	5	1	0	0	0	1	False	two_year_recid    0
+Name: 5778, dtype: int64
+12.5055428295	-15.9044937909	50	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5704, dtype: int64
+-4.30718066016	-10.9777067957	36	0	0	1	0	0	1	False	two_year_recid    0
+Name: 2380, dtype: int64
+10.2397767837	-1.63313302369	41	0	1	0	0	0	1	True	two_year_recid    0
+Name: 232, dtype: int64
+-23.4298176005	-10.877264204	23	1	0	1	0	1	0	True	two_year_recid    0
+Name: 6747, dtype: int64
+-6.81417394426	19.3331445525	31	0	0	0	1	0	1	True	two_year_recid    1
+Name: 6875, dtype: int64
+-15.982730883	11.2674895531	41	0	0	1	0	0	1	True	two_year_recid    0
+Name: 7163, dtype: int64
+14.9608592226	10.8220274559	24	0	0	0	1	1	0	True	two_year_recid    0
+Name: 5391, dtype: int64
+7.81986702301	-16.9303081568	57	14	0	1	0	1	0	True	two_year_recid    1
+Name: 7187, dtype: int64
+-5.16695725056	-11.6135897781	22	0	0	1	0	0	1	False	two_year_recid    0
+Name: 3149, dtype: int64
+3.15899639333	-15.9101976038	25	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3226, dtype: int64
+-8.02662292513	-17.1407255414	38	37	1	0	0	0	1	True	two_year_recid    1
+Name: 2186, dtype: int64
+3.38982061122	-4.7701837123	23	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3510, dtype: int64
+-19.7497988457	-12.0628312831	28	0	0	1	0	1	0	True	two_year_recid    0
+Name: 4275, dtype: int64
+-11.5508215141	-11.9546460746	31	11	0	1	0	1	0	True	two_year_recid    1
+Name: 2389, dtype: int64
+18.1205562302	-6.52690636233	37	6	0	1	0	1	0	False	two_year_recid    0
+Name: 173, dtype: int64
+-0.712319602467	10.6368682286	38	1	1	0	0	1	0	False	two_year_recid    0
+Name: 602, dtype: int64
+-2.72079297861	-4.47323296473	44	0	0	0	0	0	1	True	two_year_recid    0
+Name: 5, dtype: int64
+3.40791858225	-4.85472393165	23	1	1	0	0	0	1	True	two_year_recid    0
+Name: 5351, dtype: int64
+17.6960414383	-8.4513329263	54	7	0	1	0	1	0	False	two_year_recid    0
+Name: 4014, dtype: int64
+-20.9155629626	-12.1828115838	26	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1070, dtype: int64
+-3.83946810339	-1.92168647071	45	0	0	0	0	1	0	True	two_year_recid    0
+Name: 5906, dtype: int64
+-2.73425672109	13.7323164003	21	2	1	0	0	1	0	False	two_year_recid    1
+Name: 6309, dtype: int64
+8.83888483763	-6.85663570889	27	13	1	0	0	0	1	True	two_year_recid    1
+Name: 454, dtype: int64
+-5.34702162597	2.89111069317	26	10	1	0	0	1	0	True	two_year_recid    1
+Name: 5438, dtype: int64
+-11.2256275582	3.2816937464	33	23	1	0	0	1	0	True	two_year_recid    1
+Name: 2089, dtype: int64
+10.0597772746	3.55299640034	30	1	1	0	0	1	0	True	two_year_recid    1
+Name: 4517, dtype: int64
+10.1017648783	-6.43436242152	43	15	1	0	0	0	1	True	two_year_recid    1
+Name: 5453, dtype: int64
+-12.4887396922	-2.13259304468	57	8	1	0	0	1	0	True	two_year_recid    1
+Name: 1960, dtype: int64
+1.41965557668	5.42327953764	29	7	1	0	0	1	0	True	two_year_recid    0
+Name: 323, dtype: int64
+-19.8493155028	5.56033825204	25	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2790, dtype: int64
+-11.1609950017	14.8130869048	78	1	0	1	0	0	1	True	two_year_recid    1
+Name: 179, dtype: int64
+-8.93985736736	3.89175047248	33	14	1	0	0	1	0	True	two_year_recid    1
+Name: 3847, dtype: int64
+-9.62948803722	7.76770409929	20	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5986, dtype: int64
+-10.5931340854	-2.31017524887	44	7	1	0	0	1	0	True	two_year_recid    0
+Name: 3462, dtype: int64
+8.56687266927	24.5564334232	22	1	1	0	0	1	0	True	two_year_recid    1
+Name: 1983, dtype: int64
+10.2016348768	-5.47931986109	44	10	1	0	0	0	1	True	two_year_recid    1
+Name: 1848, dtype: int64
+2.6980027124	19.0309971149	25	3	1	0	0	0	1	False	two_year_recid    0
+Name: 4774, dtype: int64
+2.02208710038	19.0508228684	20	0	1	0	0	0	1	False	two_year_recid    0
+Name: 4128, dtype: int64
+10.7606444687	-5.47029522223	51	11	1	0	0	0	1	True	two_year_recid    1
+Name: 4225, dtype: int64
+4.44969300451	5.78579031687	25	4	1	0	0	1	0	True	two_year_recid    1
+Name: 2797, dtype: int64
+3.52451445242	-12.9645842642	28	2	1	0	0	1	0	True	two_year_recid    0
+Name: 4180, dtype: int64
+15.7254975991	7.98632408493	45	0	0	0	1	1	0	True	two_year_recid    0
+Name: 1638, dtype: int64
+-10.453439747	-4.85828621608	52	3	1	0	0	1	0	True	two_year_recid    0
+Name: 1186, dtype: int64
+11.557980042	3.22139471321	28	0	1	0	0	1	0	True	two_year_recid    0
+Name: 707, dtype: int64
+-13.3065888427	13.0117644989	52	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5842, dtype: int64
+-12.4024118955	13.7326319058	58	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2927, dtype: int64
+-9.12559509818	4.1994910416	29	15	1	0	0	1	0	True	two_year_recid    1
+Name: 7077, dtype: int64
+5.49302146335	0.244000768827	24	7	1	0	0	0	1	True	two_year_recid    0
+Name: 858, dtype: int64
+-7.45468394148	-6.22311707256	42	0	1	0	0	1	0	True	two_year_recid    1
+Name: 3807, dtype: int64
+15.6803110712	8.96597291094	37	2	0	0	1	1	0	True	two_year_recid    1
+Name: 4949, dtype: int64
+-0.718868484837	11.0623319511	35	2	1	0	0	1	0	False	two_year_recid    1
+Name: 3759, dtype: int64
+2.45236116982	-4.32387157804	21	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4681, dtype: int64
+-20.1132598128	5.13989353356	23	0	0	1	0	0	1	True	two_year_recid    0
+Name: 946, dtype: int64
+10.600448293	-1.68789292422	43	0	1	0	0	0	1	True	two_year_recid    0
+Name: 7196, dtype: int64
+2.95337593475	17.9887316976	34	1	1	0	0	0	1	False	two_year_recid    0
+Name: 4835, dtype: int64
+2.74893188973	-4.17698213948	23	0	1	0	0	0	1	True	two_year_recid    1
+Name: 5370, dtype: int64
+-11.4600051862	-11.8859116927	34	11	0	1	0	1	0	True	two_year_recid    0
+Name: 6943, dtype: int64
+19.5601159827	-4.2054287707	20	0	0	1	0	1	0	False	two_year_recid    1
+Name: 6009, dtype: int64
+8.3114421525	-2.17659285479	34	1	1	0	0	0	1	True	two_year_recid    1
+Name: 3351, dtype: int64
+-4.44887316822	-11.1475764572	33	4	0	1	0	0	1	False	two_year_recid    1
+Name: 36, dtype: int64
+2.74891558629	-4.17698534132	23	0	1	0	0	0	1	True	two_year_recid    1
+Name: 1475, dtype: int64
+-5.03256546732	-2.38624969743	63	23	0	0	0	1	0	True	two_year_recid    1
+Name: 1694, dtype: int64
+0.715020072447	-13.7112710218	22	3	1	0	0	1	0	True	two_year_recid    1
+Name: 6547, dtype: int64
+12.3845823504	-14.607536761	45	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3816, dtype: int64
+2.15089786563	-16.9898981966	23	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5410, dtype: int64
+7.24844938035	23.7654682872	32	8	1	0	0	1	0	True	two_year_recid    0
+Name: 6432, dtype: int64
+6.61005544083	-2.91361659745	31	1	1	0	0	0	1	True	two_year_recid    0
+Name: 139, dtype: int64
+3.57861189264	18.1160737435	37	4	1	0	0	0	1	False	two_year_recid    0
+Name: 3648, dtype: int64
+10.2789813685	3.23902274371	29	1	1	0	0	1	0	True	two_year_recid    1
+Name: 4676, dtype: int64
+2.2632371344	18.8644445304	24	1	1	0	0	0	1	False	two_year_recid    1
+Name: 798, dtype: int64
+3.36424443479	-15.6028811798	26	1	1	0	0	1	0	True	two_year_recid    0
+Name: 490, dtype: int64
+3.14955423474	4.80257550955	29	5	1	0	0	1	0	True	two_year_recid    0
+Name: 2947, dtype: int64
+-3.69127496664	-1.46988633375	37	0	0	0	0	1	0	True	two_year_recid    1
+Name: 4811, dtype: int64
+4.20158489817	16.5980273437	57	0	1	0	0	0	1	False	two_year_recid    0
+Name: 3341, dtype: int64
+12.1527738836	-15.776685158	49	1	0	1	0	1	0	True	two_year_recid    1
+Name: 1663, dtype: int64
+5.1682565632	-3.99561196262	27	1	1	0	0	0	1	True	two_year_recid    0
+Name: 3504, dtype: int64
+-1.65340755546	-1.52141992538	45	1	0	0	0	1	0	False	two_year_recid    0
+Name: 6777, dtype: int64
+-15.2182001553	11.8602819465	44	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6263, dtype: int64
+18.5629405229	-7.58862555203	45	1	0	1	0	1	0	False	two_year_recid    0
+Name: 647, dtype: int64
+11.6464264544	-18.0715285008	56	1	0	1	0	1	0	True	two_year_recid    1
+Name: 4845, dtype: int64
+10.2971866703	-18.5001551626	61	4	0	1	0	1	0	True	two_year_recid    0
+Name: 445, dtype: int64
+18.1250376364	9.79086145104	41	19	0	0	1	1	0	True	two_year_recid    1
+Name: 2840, dtype: int64
+-0.748267970937	11.0523242993	35	2	1	0	0	1	0	False	two_year_recid    0
+Name: 1161, dtype: int64
+-17.3587224653	8.16011766586	33	2	0	1	0	0	1	True	two_year_recid    0
+Name: 1546, dtype: int64
+-11.3470894945	-4.14912772093	56	5	1	0	0	1	0	True	two_year_recid    0
+Name: 404, dtype: int64
+9.2064602559	-17.3579552787	57	7	0	1	0	1	0	True	two_year_recid    0
+Name: 6176, dtype: int64
+9.840026516	-5.0533268275	41	7	1	0	0	0	1	True	two_year_recid    0
+Name: 5259, dtype: int64
+-4.16793158257	20.1567894031	37	0	0	0	1	0	1	False	two_year_recid    0
+Name: 4520, dtype: int64
+-17.4685909951	7.28736576849	30	3	0	1	0	0	1	True	two_year_recid    0
+Name: 1247, dtype: int64
+-8.96623394397	-16.8343755115	25	8	1	0	0	1	0	True	two_year_recid    0
+Name: 4641, dtype: int64
+-3.48603931671	5.45605712226	26	11	0	0	0	1	0	True	two_year_recid    1
+Name: 3652, dtype: int64
+10.8768234345	-19.4479441879	67	1	0	1	0	1	0	True	two_year_recid    0
+Name: 7069, dtype: int64
+15.0146440675	10.2604631506	29	0	0	0	1	1	0	True	two_year_recid    1
+Name: 2967, dtype: int64
+1.64000515711	-20.7360165411	21	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1600, dtype: int64
+6.89885563807	22.9744806426	29	17	1	0	0	1	0	True	two_year_recid    1
+Name: 4504, dtype: int64
+-2.47248234325	0.149140690631	37	11	0	0	0	1	0	True	two_year_recid    0
+Name: 2550, dtype: int64
+0.821455757674	1.41522479142	40	3	1	0	0	1	0	True	two_year_recid    0
+Name: 3710, dtype: int64
+9.71438558708	-5.34273739694	40	8	1	0	0	0	1	True	two_year_recid    1
+Name: 5142, dtype: int64
+10.0861820538	-11.5131433752	35	2	0	1	0	1	0	True	two_year_recid    0
+Name: 3595, dtype: int64
+-20.2409067531	4.98487009225	22	0	0	1	0	0	1	True	two_year_recid    0
+Name: 4963, dtype: int64
+10.0597767984	3.55299623724	30	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5600, dtype: int64
+0.185025734224	-20.8885263191	23	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1927, dtype: int64
+11.3027915675	-12.6035178834	40	1	0	1	0	1	0	True	two_year_recid    0
+Name: 703, dtype: int64
+11.0667399174	-19.4544445972	66	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2869, dtype: int64
+-20.2328267828	9.03152636241	27	2	0	1	0	0	1	True	two_year_recid    1
+Name: 6849, dtype: int64
+-19.2590775034	6.53388731588	29	0	0	1	0	0	1	True	two_year_recid    0
+Name: 39, dtype: int64
+4.50457664151	-5.28243687632	24	2	1	0	0	0	1	True	two_year_recid    1
+Name: 1228, dtype: int64
+-6.82657315512	-6.14283863076	39	0	1	0	0	1	0	True	two_year_recid    1
+Name: 4365, dtype: int64
+7.86442464379	24.2154034773	25	5	1	0	0	1	0	True	two_year_recid    1
+Name: 6495, dtype: int64
+11.2426808364	-4.01833882904	49	6	1	0	0	0	1	True	two_year_recid    1
+Name: 2822, dtype: int64
+6.53001536362	-6.10451250419	30	4	1	0	0	0	1	True	two_year_recid    1
+Name: 2789, dtype: int64
+-21.937793135	-12.0193063377	24	0	0	1	0	1	0	True	two_year_recid    0
+Name: 4763, dtype: int64
+-11.6754756657	13.5880467002	59	3	0	1	0	0	1	True	two_year_recid    1
+Name: 1956, dtype: int64
+1.38655408519	19.2807439754	25	0	1	0	0	0	1	False	two_year_recid    0
+Name: 6080, dtype: int64
+-7.41165115981	18.5530622773	30	7	0	0	1	0	1	True	two_year_recid    0
+Name: 513, dtype: int64
+11.557980026	3.22139470998	28	0	1	0	0	1	0	True	two_year_recid    0
+Name: 3432, dtype: int64
+-15.9581030263	9.67190030321	39	2	0	1	0	0	1	True	two_year_recid    0
+Name: 827, dtype: int64
+-12.150639502	-5.61045088748	68	2	1	0	0	1	0	True	two_year_recid    0
+Name: 5018, dtype: int64
+-3.78713018071	-1.44680012442	37	2	0	0	0	1	0	True	two_year_recid    0
+Name: 3896, dtype: int64
+18.250686437	-7.29542661238	44	4	0	1	0	1	0	False	two_year_recid    1
+Name: 1690, dtype: int64
+0.962170591896	-14.6949519406	22	2	1	0	0	1	0	True	two_year_recid    0
+Name: 4600, dtype: int64
+-19.3221685306	5.80349624305	26	1	0	1	0	0	1	True	two_year_recid    0
+Name: 3727, dtype: int64
+-7.45468392385	-6.22311706947	42	0	1	0	0	1	0	True	two_year_recid    0
+Name: 3700, dtype: int64
+19.2469615444	-5.22686277358	31	0	0	1	0	1	0	False	two_year_recid    1
+Name: 4817, dtype: int64
+-41.4107156604	-30.1555561026	25	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4591, dtype: int64
+8.30762332822	-5.3464313716	50	24	1	0	0	0	1	True	two_year_recid    1
+Name: 2833, dtype: int64
+11.9176492243	-2.24606653165	52	1	1	0	0	0	1	True	two_year_recid    1
+Name: 2219, dtype: int64
+9.11067992778	21.0685631338	22	6	0	1	0	1	0	True	two_year_recid    1
+Name: 540, dtype: int64
+4.12563431177	19.0062556877	35	12	1	0	0	0	1	False	two_year_recid    0
+Name: 509, dtype: int64
+-2.14039646712	11.8460937365	29	1	1	0	0	1	0	False	two_year_recid    0
+Name: 5385, dtype: int64
+-20.41900803	4.79346233552	20	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6621, dtype: int64
+-41.4034868187	-30.153219348	26	3	0	1	0	1	0	True	two_year_recid    1
+Name: 5225, dtype: int64
+3.03513824459	17.9150952784	35	1	1	0	0	0	1	False	two_year_recid    0
+Name: 88, dtype: int64
+4.60746880969	-0.085949983583	31	6	1	0	0	0	1	True	two_year_recid    1
+Name: 6571, dtype: int64
+-1.34971547486	11.1691123408	33	1	1	0	0	1	0	False	two_year_recid    0
+Name: 1201, dtype: int64
+11.8051638519	3.0034012285	27	0	1	0	0	1	0	True	two_year_recid    0
+Name: 547, dtype: int64
+8.87416992498	21.9056185283	24	4	1	0	0	1	0	True	two_year_recid    1
+Name: 5618, dtype: int64
+2.45230902715	-4.3238101002	21	0	1	0	0	0	1	True	two_year_recid    1
+Name: 5146, dtype: int64
+-20.369217278	4.84320209957	21	0	0	1	0	0	1	True	two_year_recid    1
+Name: 7206, dtype: int64
+17.9136402713	10.3012926408	35	12	0	0	1	1	0	True	two_year_recid    0
+Name: 1795, dtype: int64
+-12.2399092113	7.51108643817	24	3	0	1	0	0	1	True	two_year_recid    0
+Name: 1868, dtype: int64
+-19.5922484567	5.27926270089	24	1	0	1	0	0	1	True	two_year_recid    0
+Name: 3182, dtype: int64
+-6.67606273428	4.91997034207	26	10	1	0	0	1	0	True	two_year_recid    1
+Name: 4898, dtype: int64
+3.05536256465	-4.85633336932	22	1	1	0	0	0	1	True	two_year_recid    1
+Name: 5116, dtype: int64
+-11.1910562685	-1.17167555937	45	10	1	0	0	1	0	True	two_year_recid    1
+Name: 1066, dtype: int64
+15.9851769993	7.04423953859	59	1	0	0	1	1	0	True	two_year_recid    1
+Name: 4567, dtype: int64
+-13.3082539713	13.0155670965	52	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2105, dtype: int64
+-3.48104199223	5.45694774552	37	0	0	0	0	1	0	True	two_year_recid    0
+Name: 1957, dtype: int64
+4.29219717464	4.91137295731	28	4	1	0	0	1	0	True	two_year_recid    1
+Name: 2289, dtype: int64
+11.306402692	-15.0719381922	46	2	0	1	0	1	0	True	two_year_recid    0
+Name: 6430, dtype: int64
+-7.03719064677	-6.18275807989	40	0	1	0	0	1	0	True	two_year_recid    0
+Name: 600, dtype: int64
+10.6322797911	-19.7195014265	75	1	0	1	0	1	0	True	two_year_recid    1
+Name: 3458, dtype: int64
+11.390609752	-18.0160718528	56	2	0	1	0	1	0	True	two_year_recid    0
+Name: 2825, dtype: int64
+-15.594472904	7.01806893312	36	9	0	1	0	0	1	True	two_year_recid    1
+Name: 2861, dtype: int64
+2.28862289806	18.5283100012	27	0	1	0	0	0	1	False	two_year_recid    0
+Name: 3320, dtype: int64
+10.603838774	-3.24873981019	42	4	1	0	0	0	1	True	two_year_recid    0
+Name: 2369, dtype: int64
+-6.99866602639	4.87057435101	24	11	1	0	0	1	0	True	two_year_recid    1
+Name: 3815, dtype: int64
+-0.420297934291	-20.6743046059	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 867, dtype: int64
+3.58437124585	-4.72478691676	24	1	1	0	0	0	1	True	two_year_recid    0
+Name: 6832, dtype: int64
+-1.64277807248	-1.38500675901	34	0	0	0	0	1	0	False	two_year_recid    0
+Name: 6590, dtype: int64
+-23.0691148692	-11.6583042465	22	0	0	1	0	1	0	True	two_year_recid    0
+Name: 358, dtype: int64
+12.4757157025	-15.8918841209	50	0	0	1	0	1	0	True	two_year_recid    1
+Name: 1967, dtype: int64
+-11.3739404007	-11.9279040119	30	13	0	1	0	1	0	True	two_year_recid    1
+Name: 2561, dtype: int64
+1.00731899755	3.17515756726	34	5	1	0	0	1	0	True	two_year_recid    0
+Name: 3741, dtype: int64
+-12.3019954906	-1.04968140357	53	11	1	0	0	1	0	True	two_year_recid    0
+Name: 414, dtype: int64
+9.25512763951	20.7073606363	21	2	0	1	0	1	0	True	two_year_recid    1
+Name: 5992, dtype: int64
+2.31882759427	-4.36014670759	20	0	1	0	0	0	1	True	two_year_recid    1
+Name: 3062, dtype: int64
+3.12823640546	6.51337105742	23	6	1	0	0	1	0	True	two_year_recid    1
+Name: 3255, dtype: int64
+10.745802109	-10.2482267103	32	0	0	1	0	1	0	True	two_year_recid    0
+Name: 1740, dtype: int64
+4.42266306153	5.52145506317	26	4	1	0	0	1	0	True	two_year_recid    1
+Name: 4171, dtype: int64
+8.60384286085	-2.48461012168	35	2	1	0	0	0	1	True	two_year_recid    0
+Name: 3350, dtype: int64
+10.5874162316	-1.70743862776	43	0	1	0	0	0	1	True	two_year_recid    1
+Name: 1035, dtype: int64
+17.9040627156	-5.67952300242	35	3	0	1	0	1	0	False	two_year_recid    0
+Name: 1757, dtype: int64
+13.7184873709	12.3802438202	35	0	0	0	1	1	0	True	two_year_recid    0
+Name: 2778, dtype: int64
+11.91691271	-13.1896186383	42	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3448, dtype: int64
+9.34476519081	-6.14451290664	37	11	1	0	0	0	1	True	two_year_recid    1
+Name: 3655, dtype: int64
+-2.75668205062	-9.65846712252	59	0	0	1	0	0	1	False	two_year_recid    0
+Name: 496, dtype: int64
+-20.8577884922	-12.1972801211	26	0	0	1	0	1	0	True	two_year_recid    0
+Name: 7053, dtype: int64
+-1.48925076265	11.6891642614	31	2	1	0	0	1	0	False	two_year_recid    0
+Name: 1624, dtype: int64
+11.3362278476	-11.7033136557	37	0	0	1	0	1	0	True	two_year_recid    0
+Name: 350, dtype: int64
+8.19567743517	3.9157443943	31	2	1	0	0	1	0	True	two_year_recid    0
+Name: 2814, dtype: int64
+-14.7409544851	12.1544468571	46	0	0	1	0	0	1	True	two_year_recid    0
+Name: 6197, dtype: int64
+18.365789349	-7.95981657382	49	2	0	1	0	1	0	False	two_year_recid    0
+Name: 4556, dtype: int64
+17.9366982794	-8.17167618047	51	5	0	1	0	1	0	False	two_year_recid    0
+Name: 1314, dtype: int64
+-4.97107891633	-11.5100246241	26	2	0	1	0	0	1	False	two_year_recid    0
+Name: 4147, dtype: int64
+-5.66650885304	8.42802002768	35	0	0	0	0	1	0	True	two_year_recid    0
+Name: 483, dtype: int64
+-15.8560467502	5.67821343215	28	9	0	1	0	0	1	True	two_year_recid    0
+Name: 3465, dtype: int64
+-23.5575673587	-11.6937480738	20	0	0	1	0	1	0	True	two_year_recid    1
+Name: 2810, dtype: int64
+-0.753856753816	4.91773056947	32	9	1	0	0	1	0	True	two_year_recid    0
+Name: 4656, dtype: int64
+-21.2539483715	-12.1401233704	25	0	0	1	0	1	0	True	two_year_recid    0
+Name: 275, dtype: int64
+-12.8073143154	13.3845373331	55	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1816, dtype: int64
+0.192432901765	-20.8581086188	23	0	1	0	0	1	0	True	two_year_recid    0
+Name: 5904, dtype: int64
+1.13730312574	-14.5882086521	23	2	1	0	0	1	0	True	two_year_recid    1
+Name: 973, dtype: int64
+11.5579800275	3.2213947159	28	0	1	0	0	1	0	True	two_year_recid    1
+Name: 5987, dtype: int64
+1.39423215511	5.42629774108	29	7	1	0	0	1	0	True	two_year_recid    1
+Name: 6481, dtype: int64
+-14.2981789173	-12.7162609789	29	4	0	1	0	1	0	True	two_year_recid    0
+Name: 6163, dtype: int64
+-3.24099800343	-10.090362153	48	0	0	1	0	0	1	False	two_year_recid    0
+Name: 512, dtype: int64
+3.1589965392	-15.9101987025	25	1	1	0	0	1	0	True	two_year_recid    0
+Name: 2029, dtype: int64
+-11.2744289833	-5.92047430863	59	1	1	0	0	1	0	True	two_year_recid    0
+Name: 1342, dtype: int64
+3.68296534595	18.9762443042	30	7	1	0	0	0	1	False	two_year_recid    1
+Name: 4723, dtype: int64
+2.38247877599	19.0350551334	23	2	1	0	0	0	1	False	two_year_recid    1
+Name: 5280, dtype: int64
+12.1046062204	-15.2792800916	47	1	0	1	0	1	0	True	two_year_recid    0
+Name: 6840, dtype: int64
+7.05656786529	-2.43627465262	32	0	1	0	0	0	1	True	two_year_recid    0
+Name: 6692, dtype: int64
+-20.4566659339	4.76013428568	20	0	0	1	0	0	1	True	two_year_recid    1
+Name: 1087, dtype: int64
+-3.86965198156	-0.490798868666	24	5	0	0	0	1	0	True	two_year_recid    0
+Name: 1185, dtype: int64
+11.3210691703	3.45778284876	29	0	1	0	0	1	0	True	two_year_recid    1
+Name: 1783, dtype: int64
+-11.113036654	14.2716676893	68	4	0	1	0	0	1	True	two_year_recid    0
+Name: 4769, dtype: int64
+11.727779074	-17.8364148864	55	1	0	1	0	1	0	True	two_year_recid    0
+Name: 2680, dtype: int64
+-0.944699580394	-20.600422952	25	0	1	0	0	1	0	True	two_year_recid    1
+Name: 3420, dtype: int64
+-8.42605253811	-6.24472272245	46	0	1	0	0	1	0	True	two_year_recid    0
+Name: 699, dtype: int64
+-23.8199397162	-11.0979451496	21	1	0	1	0	1	0	True	two_year_recid    0
+Name: 1210, dtype: int64
+1.9869960495	6.03039632143	26	7	1	0	0	1	0	True	two_year_recid    0
+Name: 5132, dtype: int64
+-17.2848009988	10.0767511046	34	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2408, dtype: int64
+11.1550309826	-12.3414238554	39	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4852, dtype: int64
+-0.0280147897192	8.99365667192	55	2	1	0	0	1	0	False	two_year_recid    0
+Name: 6208, dtype: int64
+12.9639093007	-2.46963521951	70	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4051, dtype: int64
+18.5521165734	-8.00845908864	49	0	0	1	0	1	0	False	two_year_recid    0
+Name: 5256, dtype: int64
+-11.1967221637	3.17361486084	35	22	1	0	0	1	0	True	two_year_recid    1
+Name: 5995, dtype: int64
+-12.6641494756	13.5024815558	56	0	0	1	0	0	1	True	two_year_recid    1
+Name: 7005, dtype: int64
+8.84000432047	22.7069166881	26	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2710, dtype: int64
+-0.638510016281	10.3682681606	39	1	1	0	0	1	0	False	two_year_recid    1
+Name: 7133, dtype: int64
+8.62388024286	24.5553126123	24	0	1	0	0	1	0	True	two_year_recid    0
+Name: 2090, dtype: int64
+7.8946040773	-2.30987353674	33	1	1	0	0	0	1	True	two_year_recid    1
+Name: 3315, dtype: int64
+18.5361063628	-7.69680675716	46	1	0	1	0	1	0	False	two_year_recid    0
+Name: 4060, dtype: int64
+-11.5287062147	14.5030727518	67	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2592, dtype: int64
+1.12934909385	-14.6113339202	23	2	1	0	0	1	0	True	two_year_recid    1
+Name: 5140, dtype: int64
+-12.5515869694	13.4436184424	56	1	0	1	0	0	1	True	two_year_recid    0
+Name: 1505, dtype: int64
+-21.8768183412	-12.0146185714	24	0	0	1	0	1	0	True	two_year_recid    0
+Name: 906, dtype: int64
+-14.2820642303	-12.1216928116	32	4	0	1	0	1	0	True	two_year_recid    1
+Name: 7030, dtype: int64
+-8.81613715883	-4.36469338618	43	3	1	0	0	1	0	True	two_year_recid    1
+Name: 6766, dtype: int64
+-6.68365900051	-15.8108371192	21	3	0	1	0	0	1	False	two_year_recid    1
+Name: 5440, dtype: int64
+-3.54309527521	-10.3536165529	44	1	0	1	0	0	1	False	two_year_recid    1
+Name: 3922, dtype: int64
+-2.62413396974	12.5664186133	26	1	1	0	0	1	0	False	two_year_recid    1
+Name: 78, dtype: int64
+-1.69070594684	-5.68175578713	20	3	0	0	0	0	1	True	two_year_recid    1
+Name: 3514, dtype: int64
+-6.99523855795	18.5897843256	35	5	0	0	1	0	1	True	two_year_recid    0
+Name: 3622, dtype: int64
+-15.8288548409	8.64408681281	38	4	0	1	0	0	1	True	two_year_recid    1
+Name: 62, dtype: int64
+-19.7050648694	5.78647378288	26	0	0	1	0	0	1	True	two_year_recid    0
+Name: 3097, dtype: int64
+12.4877370725	-15.6814657864	49	0	0	1	0	1	0	True	two_year_recid    0
+Name: 6659, dtype: int64
+3.68000708037	-3.77490175493	25	0	1	0	0	0	1	True	two_year_recid    1
+Name: 3667, dtype: int64
+-3.51398964183	13.3646031916	21	0	1	0	0	1	0	False	two_year_recid    1
+Name: 336, dtype: int64
+-1.71753424559	-1.67328718446	55	5	0	0	0	1	0	False	two_year_recid    1
+Name: 6172, dtype: int64
+15.1430216021	10.8569942667	24	1	0	0	1	1	0	True	two_year_recid    1
+Name: 988, dtype: int64
+9.16130377782	5.00245722578	34	1	1	0	0	1	0	True	two_year_recid    0
+Name: 5655, dtype: int64
+3.16711876289	18.3961786992	32	3	1	0	0	0	1	False	two_year_recid    0
+Name: 3871, dtype: int64
+10.8663173909	-2.81149214908	44	3	1	0	0	0	1	True	two_year_recid    0
+Name: 6081, dtype: int64
+-10.5362185406	-2.65348551547	45	6	1	0	0	1	0	True	two_year_recid    0
+Name: 6846, dtype: int64
+8.42214838017	24.4866195827	26	2	1	0	0	1	0	True	two_year_recid    0
+Name: 6180, dtype: int64
+-9.68672101383	-6.27642074207	51	0	1	0	0	1	0	True	two_year_recid    1
+Name: 4326, dtype: int64
+-1.38141206587	-3.65217175162	23	0	0	0	0	0	1	False	two_year_recid    0
+Name: 5431, dtype: int64
+-10.2068945906	10.8431173445	57	21	0	1	0	0	1	True	two_year_recid    1
+Name: 6418, dtype: int64
+-0.578768059528	9.98975774742	42	0	1	0	0	1	0	False	two_year_recid    0
+Name: 1971, dtype: int64
+-41.4077808863	-30.1539695101	26	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4942, dtype: int64
+8.02734312759	-5.26704322845	33	12	1	0	0	0	1	True	two_year_recid    1
+Name: 1118, dtype: int64
+10.0427372734	-15.2055896788	46	4	0	1	0	1	0	True	two_year_recid    0
+Name: 3235, dtype: int64
+9.12671377601	-16.4958594796	51	7	0	1	0	1	0	True	two_year_recid    0
+Name: 7173, dtype: int64
+19.2506534616	-4.56545536888	25	2	0	1	0	1	0	False	two_year_recid    0
+Name: 128, dtype: int64
+8.6563497614	24.5987079316	20	0	1	0	0	1	0	True	two_year_recid    0
+Name: 6997, dtype: int64
+-2.61113058111	13.6696544171	22	2	1	0	0	1	0	False	two_year_recid    0
+Name: 3119, dtype: int64
+4.94046632675	-3.14154194436	27	0	1	0	0	0	1	True	two_year_recid    1
+Name: 7104, dtype: int64
+-41.407780879	-30.1539695399	26	2	0	1	0	1	0	True	two_year_recid    0
+Name: 6527, dtype: int64
+2.95008475761	18.011975838	34	1	1	0	0	0	1	False	two_year_recid    0
+Name: 5714, dtype: int64
+-23.8199425239	-11.0979452605	21	1	0	1	0	1	0	True	two_year_recid    0
+Name: 4738, dtype: int64
+-13.1272669179	13.1389085009	53	0	0	1	0	0	1	True	two_year_recid    0
+Name: 4233, dtype: int64
+-13.5490564973	-13.7664826078	22	6	0	1	0	1	0	True	two_year_recid    1
+Name: 6407, dtype: int64
+3.15707632769	-13.2980322222	26	2	1	0	0	1	0	True	two_year_recid    1
+Name: 6436, dtype: int64
+19.4675780873	-4.30579292758	22	1	0	1	0	1	0	False	two_year_recid    0
+Name: 7178, dtype: int64
+7.50268885998	-7.06784317737	25	8	1	0	0	0	1	True	two_year_recid    1
+Name: 1489, dtype: int64
+-10.8943793765	-4.53579403604	54	4	1	0	0	1	0	True	two_year_recid    0
+Name: 5464, dtype: int64
+-10.5130631095	-3.43774910326	48	5	1	0	0	1	0	True	two_year_recid    1
+Name: 1964, dtype: int64
+-16.8567505662	6.09905874282	27	5	0	1	0	0	1	True	two_year_recid    0
+Name: 630, dtype: int64
+-1.67994622949	-1.27620371489	24	0	0	0	0	1	0	False	two_year_recid    0
+Name: 6623, dtype: int64
+9.06588729647	5.23201116179	35	1	1	0	0	1	0	True	two_year_recid    0
+Name: 3578, dtype: int64
+-10.7734589306	-16.3357907569	34	20	1	0	0	1	0	True	two_year_recid    1
+Name: 6033, dtype: int64
+-3.57273374021	13.445136622	20	0	1	0	0	1	0	False	two_year_recid    0
+Name: 5355, dtype: int64
+11.0591489935	-4.68923992247	51	8	1	0	0	0	1	True	two_year_recid    0
+Name: 4586, dtype: int64
+18.3968856056	-8.21675448054	52	1	0	1	0	1	0	False	two_year_recid    0
+Name: 4069, dtype: int64
+1.05123278954	-10.3954870439	20	2	1	0	0	1	0	True	two_year_recid    1
+Name: 7060, dtype: int64
+-2.20909633405	-4.62720613213	30	4	0	0	0	0	1	True	two_year_recid    1
+Name: 667, dtype: int64
+3.22384951237	-4.01475588451	24	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5491, dtype: int64
+4.22816859796	16.5633935842	59	0	1	0	0	0	1	False	two_year_recid    0
+Name: 2558, dtype: int64
+11.3152231686	-15.0871351337	46	2	0	1	0	1	0	True	two_year_recid    1
+Name: 3855, dtype: int64
+-20.497665739	-12.1357010056	27	0	0	1	0	1	0	True	two_year_recid    1
+Name: 6884, dtype: int64
+-15.1958529943	7.6850162934	44	8	0	1	0	0	1	True	two_year_recid    1
+Name: 248, dtype: int64
+4.42266271952	5.52145504381	26	4	1	0	0	1	0	True	two_year_recid    1
+Name: 2684, dtype: int64
+10.8955382234	-16.1842388396	51	3	0	1	0	1	0	True	two_year_recid    0
+Name: 4549, dtype: int64
+9.63905473571	-18.6352098298	65	6	0	1	0	1	0	True	two_year_recid    0
+Name: 2491, dtype: int64
+-3.53147112537	-10.3361575409	44	0	0	1	0	0	1	False	two_year_recid    1
+Name: 4086, dtype: int64
+16.1713318662	12.1844699003	19	1	0	0	1	1	0	True	two_year_recid    0
+Name: 1739, dtype: int64
+-13.1245440929	-12.231919777	32	6	0	1	0	1	0	True	two_year_recid    1
+Name: 3947, dtype: int64
+-13.5006955694	12.676497221	51	2	0	1	0	0	1	True	two_year_recid    1
+Name: 6923, dtype: int64
+11.5039398864	-18.4264266295	58	1	0	1	0	1	0	True	two_year_recid    1
+Name: 3479, dtype: int64
+12.8190962272	9.12804743168	32	1	0	0	1	1	0	False	two_year_recid    0
+Name: 6961, dtype: int64
+-3.13673704696	-10.0017156028	50	1	0	1	0	0	1	False	two_year_recid    0
+Name: 4976, dtype: int64
+-9.63643139927	7.77423321534	35	3	0	1	0	1	0	True	two_year_recid    0
+Name: 6049, dtype: int64
+-1.2563928703	14.3143115756	21	4	1	0	0	1	0	False	two_year_recid    1
+Name: 2284, dtype: int64
+16.5180624531	10.4572943769	27	6	0	0	1	1	0	True	two_year_recid    0
+Name: 6492, dtype: int64
+-22.4503166218	-11.8674348266	23	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2847, dtype: int64
+9.0876615512	-6.19245537599	35	10	1	0	0	0	1	True	two_year_recid    1
+Name: 2611, dtype: int64
+11.3608337203	-11.6937576262	37	0	0	1	0	1	0	True	two_year_recid    0
+Name: 5200, dtype: int64
+1.61055864406	5.64886910894	28	7	1	0	0	1	0	True	two_year_recid    1
+Name: 3459, dtype: int64
+6.08847677739	-3.4081445425	29	1	1	0	0	0	1	True	two_year_recid    1
+Name: 4267, dtype: int64
+-6.74246277743	18.9750713455	34	2	0	0	1	0	1	True	two_year_recid    1
+Name: 365, dtype: int64
+-6.96317777041	18.6242610563	35	5	0	0	1	0	1	True	two_year_recid    1
+Name: 3709, dtype: int64
+6.29878848843	-3.12697986106	30	1	1	0	0	0	1	True	two_year_recid    0
+Name: 447, dtype: int64
+-23.0615911038	-11.722560629	22	0	0	1	0	1	0	True	two_year_recid    0
+Name: 2952, dtype: int64
+12.0651684525	-16.6026576318	52	1	0	1	0	1	0	True	two_year_recid    0
+Name: 6005, dtype: int64
+9.77731883472	-12.8212605859	39	3	0	1	0	1	0	True	two_year_recid    0
+Name: 3122, dtype: int64
+1.8459528303	-18.1974545217	21	1	1	0	0	1	0	True	two_year_recid    1
+Name: 3299, dtype: int64
+10.7458021063	-10.2482267321	32	0	0	1	0	1	0	True	two_year_recid    0
+Name: 7192, dtype: int64
+-14.6931810422	-11.9416834789	32	3	0	1	0	1	0	True	two_year_recid    0
+Name: 5744, dtype: int64
+11.0926809692	-1.80909724713	46	0	1	0	0	0	1	True	two_year_recid    0
+Name: 5822, dtype: int64
+-7.18057949179	19.7158414439	23	0	0	0	1	0	1	True	two_year_recid    0
+Name: 2477, dtype: int64
+-16.3626527621	10.9260745868	39	0	0	1	0	0	1	True	two_year_recid    0
+Name: 1870, dtype: int64
+18.4512506529	-6.94351750971	41	3	0	1	0	1	0	False	two_year_recid    0
+Name: 4011, dtype: int64
+-3.03299893974	14.4002983181	21	2	1	0	0	1	0	False	two_year_recid    0
+Name: 5667, dtype: int64
+14.1355608738	12.4157164808	25	2	0	0	1	1	0	True	two_year_recid    1
+Name: 5153, dtype: int64
+0.0652994396237	9.20356965481	51	4	1	0	0	1	0	False	two_year_recid    0
+Name: 5867, dtype: int64
+-3.71634644057	-10.5305071562	42	4	0	1	0	0	1	False	two_year_recid    1
+Name: 5133, dtype: int64
+-5.07825147336	-11.554567546	24	0	0	1	0	0	1	False	two_year_recid    0
+Name: 4423, dtype: int64
+3.1551963042	-13.2804330324	26	2	1	0	0	1	0	True	two_year_recid    1
+Name: 205, dtype: int64
+-8.14263572564	-6.23350395129	45	0	1	0	0	1	0	True	two_year_recid    1
+Name: 730, dtype: int64
+-16.6963235953	10.634934091	37	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2579, dtype: int64
+0.715020095824	-13.7112710921	22	3	1	0	0	1	0	True	two_year_recid    0
+Name: 2102, dtype: int64
+8.55047147927	24.5737667969	23	1	1	0	0	1	0	True	two_year_recid    0
+Name: 347, dtype: int64
+-41.4106410764	-30.1530817823	23	2	0	1	0	1	0	True	two_year_recid    1
+Name: 3956, dtype: int64
+-21.7390584364	-12.0176898582	24	0	0	1	0	1	0	True	two_year_recid    0
+Name: 4256, dtype: int64
+2.22580186492	18.6183624863	26	0	1	0	0	0	1	False	two_year_recid    0
+Name: 511, dtype: int64
+-15.5876175752	5.19675705249	33	2	0	1	0	0	1	True	two_year_recid    0
+Name: 4097, dtype: int64
+2.30322555572	-20.4681268444	19	0	1	0	0	1	0	True	two_year_recid    1
+Name: 2571, dtype: int64
+7.80717199976	22.5558531099	31	11	1	0	0	1	0	True	two_year_recid    1
+Name: 3937, dtype: int64
+-16.3548068561	10.9118313714	39	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2287, dtype: int64
+-2.486440795	12.3171841611	27	1	1	0	0	1	0	False	two_year_recid    1
+Name: 413, dtype: int64
+2.26022392103	-4.34879556803	20	0	1	0	0	0	1	True	two_year_recid    1
+Name: 1193, dtype: int64
+9.12326058246	-4.95138865808	36	6	1	0	0	0	1	True	two_year_recid    0
+Name: 6138, dtype: int64
+-2.9932829451	-4.40217171908	53	4	0	0	0	0	1	True	two_year_recid    1
+Name: 2804, dtype: int64
+1.86567964758	-17.4062569344	22	1	1	0	0	1	0	True	two_year_recid    0
+Name: 4639, dtype: int64
+-3.02770957693	14.8125745942	21	2	1	0	0	1	0	False	two_year_recid    0
+Name: 6534, dtype: int64
+8.73804461642	-6.82651499468	28	12	1	0	0	0	1	True	two_year_recid    1
+Name: 6112, dtype: int64
+6.2903411786	-6.94209049664	22	5	1	0	0	0	1	True	two_year_recid    1
+Name: 3154, dtype: int64
+-12.6519916662	-1.87885805313	59	9	1	0	0	1	0	True	two_year_recid    1
+Name: 5640, dtype: int64
+-2.48556087712	13.5488195996	23	2	1	0	0	1	0	False	two_year_recid    1
+Name: 4087, dtype: int64
+11.2057914258	-13.9705136861	43	2	0	1	0	1	0	True	two_year_recid    0
+Name: 4625, dtype: int64
+16.7301368931	10.3116340854	29	7	0	0	1	1	0	True	two_year_recid    1
+Name: 679, dtype: int64
+-12.0613914578	14.0237905158	61	0	0	1	0	0	1	True	two_year_recid    0
+Name: 5009, dtype: int64
+-41.4081199641	-30.1542423322	26	2	0	1	0	1	0	True	two_year_recid    0
+Name: 5952, dtype: int64
+10.8786760313	-2.83769727545	44	3	1	0	0	0	1	True	two_year_recid    0
+Name: 4110, dtype: int64
+-12.5213809673	-1.03039803654	56	12	1	0	0	1	0	True	two_year_recid    1
+Name: 4294, dtype: int64
+2.21307527126	-19.1631784084	19	1	1	0	0	1	0	True	two_year_recid    1
+Name: 296, dtype: int64
+-12.12513969	-5.56254360342	66	3	1	0	0	1	0	True	two_year_recid    0
+Name: 188, dtype: int64
+-0.812731857483	13.5083138672	25	4	1	0	0	1	0	False	two_year_recid    0
+Name: 5117, dtype: int64
+-12.8061965092	13.3782266464	55	0	0	1	0	0	1	True	two_year_recid    0
+Name: 2600, dtype: int64
+-9.79344416586	-4.681720677	48	3	1	0	0	1	0	True	two_year_recid    1
+Name: 6327, dtype: int64
+-3.46533728598	5.46058332043	25	7	0	0	0	1	0	True	two_year_recid    0
+Name: 1168, dtype: int64
+10.0473243825	-1.61536640969	40	0	1	0	0	0	1	True	two_year_recid    0
+Name: 3613, dtype: int64
+2.18200054714	-19.0266996153	19	1	1	0	0	1	0	True	two_year_recid    1
+Name: 5166, dtype: int64
+-1.38185033456	-3.63106495629	32	0	0	0	0	0	1	False	two_year_recid    0
+Name: 2034, dtype: int64
+10.4313074927	-1.67621957309	42	0	1	0	0	0	1	True	two_year_recid    1
+Name: 2188, dtype: int64
+-0.163381537523	13.386046127	26	6	1	0	0	1	0	False	two_year_recid    1
+Name: 5402, dtype: int64
+-3.53302787259	-0.871392512254	27	0	0	0	0	1	0	True	two_year_recid    1
+Name: 3245, dtype: int64
+-12.1616498505	-5.55785370453	67	3	1	0	0	1	0	True	two_year_recid    0
+Name: 6694, dtype: int64
+19.3849268889	-4.85443182092	28	0	0	1	0	1	0	False	two_year_recid    0
+Name: 2909, dtype: int64
+16.0155548562	6.93813599232	63	1	0	0	1	1	0	True	two_year_recid    0
+Name: 154, dtype: int64
+-11.3887798132	2.24595662133	47	20	1	0	0	1	0	True	two_year_recid    0
+Name: 656, dtype: int64
+-14.2825873275	-12.0882610366	32	4	0	1	0	1	0	True	two_year_recid    0
+Name: 3866, dtype: int64
+-3.19467229979	13.5734678842	21	1	1	0	0	1	0	False	two_year_recid    1
+Name: 3304, dtype: int64
+-17.3507763976	7.46666496295	31	3	0	1	0	0	1	True	two_year_recid    1
+Name: 6678, dtype: int64
+11.7033605325	-2.02315731214	50	0	1	0	0	0	1	True	two_year_recid    0
+Name: 4204, dtype: int64
+-0.332827013352	9.71269110778	45	1	1	0	0	1	0	False	two_year_recid    0
+Name: 2213, dtype: int64
+3.15899652791	-15.9101989284	25	1	1	0	0	1	0	True	two_year_recid    1
+Name: 2792, dtype: int64
+1.13586558612	1.71423349755	37	3	1	0	0	1	0	True	two_year_recid    1
+Name: 3508, dtype: int64
+-23.0691144833	-11.658303584	22	0	0	1	0	1	0	True	two_year_recid    0
+Name: 3636, dtype: int64
+-18.3535401098	-12.45462155	28	1	0	1	0	1	0	True	two_year_recid    0
+Name: 236, dtype: int64
+-11.4772531108	1.68010035137	50	18	1	0	0	1	0	True	two_year_recid    1
+Name: 713, dtype: int64
+-3.47125258122	-0.544576820056	21	0	0	0	0	1	0	True	two_year_recid    0
+Name: 2094, dtype: int64
+9.59236923936	-1.64936972946	38	0	1	0	0	0	1	True	two_year_recid    1
+Name: 4074, dtype: int64
+-4.1262030973	20.0171620143	47	0	0	0	1	0	1	False	two_year_recid    0
+Name: 1708, dtype: int64
+-12.3639905839	2.33769826486	66	33	1	0	0	1	0	True	two_year_recid    1
+Name: 503, dtype: int64
+-6.08472180741	4.98084711407	28	9	1	0	0	1	0	True	two_year_recid    1
+Name: 1167, dtype: int64
+15.4141901704	10.4254754732	28	2	0	0	1	1	0	True	two_year_recid    1
+Name: 4183, dtype: int64
+5.69169515057	-4.77497596581	28	2	1	0	0	0	1	True	two_year_recid    0
+Name: 696, dtype: int64
+9.40492527183	5.65592993011	36	0	1	0	0	1	0	True	two_year_recid    0
+Name: 1390, dtype: int64
+1.12377058621	-14.6092216506	23	2	1	0	0	1	0	True	two_year_recid    1
+Name: 5561, dtype: int64
+1.13589889282	5.19434277539	30	7	1	0	0	1	0	True	two_year_recid    1
+Name: 5940, dtype: int64
+9.6755960132	-12.5855840565	37	3	0	1	0	1	0	True	two_year_recid    0
+Name: 5738, dtype: int64
+0.0288576554332	8.85599002712	58	4	1	0	0	1	0	False	two_year_recid    0
+Name: 1325, dtype: int64
+9.0231650387	-14.8879832226	44	6	0	1	0	1	0	True	two_year_recid    0
+Name: 1001, dtype: int64
+-6.04007713376	18.502505838	44	0	0	0	1	0	1	True	two_year_recid    0
+Name: 2750, dtype: int64
